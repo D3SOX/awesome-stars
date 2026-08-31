@@ -63,6 +63,25 @@ jobs:
             sort: "category"
           EOF
 
+      - name: Test OpenAI API
+        run: |
+          curl --fail-with-body -sS \
+            https://api.openai.com/v1/chat/completions \
+            -H "Authorization: Bearer ${STARMAN_AI_API_KEY}" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "model": "gpt-4o-mini",
+              "messages": [
+                {
+                  "role": "user",
+                  "content": "Return a JSON object with ok=true"
+                }
+              ],
+              "response_format": {
+                "type": "json_object"
+              }
+            }'
+
       - name: Sync GitHub stars
         run: |
           starman sync --full
