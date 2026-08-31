@@ -1,0 +1,168 @@
+name: Update starred repositories
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 04:00 UTC daily
+    # 06:00 in Sweden during CEST, 05:00 during CET
+    - cron: "0 4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stars
+  cancel-in-progress: true
+
+env:
+  STARMAN_VERSION: "0.1.2"
+  STARMAN_GITHUB_TOKEN: ${{ github.token }}
+  STARMAN_AI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Install starman
+        run: |
+          curl -fsSL \
+            -o /tmp/starman \
+            "https://github.com/morehao/starman/releases/download/v${STARMAN_VERSION}/starman_${STARMAN_VERSION}_linux_amd64"
+
+          sudo install -m 0755 /tmp/starman /usr/local/bin/starman
+
+          starman --version
+
+      - name: Restore starman database
+        run: |
+          mkdir -p "$HOME/.starman"
+
+          if [ -f starman-backup/starman.db ]; then
+            cp starman-backup/starman.db "$HOME/.starman/starman.db"
+            echo "Restored existing starman database"
+          else
+            echo "No existing database; this is the first run"
+          fi
+
+      - name: Configure starman
+        run: |
+          cat > "$HOME/.starman/config.yaml" <<EOF
+          github:
+            username: "${GITHUB_REPOSITORY_OWNER}"
+
+          ai:
+            base_url: "https://api.openai.com/v1"
+            model: "gpt-4o-mini"
+            concurrency: 3
+
+          generate:
+            sort: "category"
+          EOF
+
+      - name: Sync GitHub stars
+        run: |
+          starman sync --full
+
+      - name: Configure categories
+        run: |
+          # Rename built-in categories to English
+          starman category edit web-app \
+            --name "Web Apps"
+
+          starman category edit mobile-app \
+            --name "Mobile Apps"
+
+          starman category edit desktop-app \
+            --name "Desktop Apps"
+
+          starman category edit database \
+            --name "Databases"
+
+          starman category edit ai-ml \
+            --name "AI and Machine Learning"
+
+          starman category edit dev-tools \
+            --name "Developer Tools"
+
+          starman category edit security \
+            --name "Security"
+
+          starman category edit game \
+            --name "Games and Graphics"
+
+          starman category edit design \
+            --name "Design"
+
+          starman category edit productivity \
+            --name "Productivity and Automation"
+
+          starman category edit education \
+            --name "Learning and Documentation"
+
+          starman category edit social \
+            --name "Social and Communication"
+
+          starman category edit data-analysis \
+            --name "Data and Analytics"
+
+          # Add some more useful custom categories.
+          # Custom categories take precedence over built-ins.
+
+          starman category add self-hosted \
+            --name "Self Hosted" \
+            --keywords "self-hosted,selfhosted,homelab,server" \
+            --sort-order 20
+
+          starman category add devops-infrastructure \
+            --name "DevOps and Infrastructure" \
+            --keywords "devops,docker,kubernetes,terraform,ansible,infrastructure,observability,monitoring" \
+            --sort-order 21
+
+          starman category add cli-terminal \
+            --name "CLI and Terminal" \
+            --keywords "cli,terminal,tui,shell,command-line" \
+            --sort-order 22
+
+          starman category add libraries-sdks \
+            --name "Libraries and SDKs" \
+            --keywords "library,sdk,framework,package" \
+            --sort-order 23
+
+      - name: Analyze new repositories
+        run: |
+          starman analyze --all
+
+          # starman's unmatched fallback is literally "others".
+          # Normalize it for the generated list.
+          starman categorize "Other" --cat-filter "others"
+
+      - name: Generate README
+        run: |
+          starman generate \
+            --sort category \
+            --template .github/starman.tmpl \
+            --output README.md
+
+      - name: Save database
+        run: |
+          mkdir -p starman-backup
+          cp "$HOME/.starman/starman.db" starman-backup/starman.db
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md starman-backup/starman.db
+
+          if git diff --cached --quiet; then
+            echo "Nothing changed"
+            exit 0
+          fi
+
+          git commit -m "chore: update starred repositories"
+          git push
