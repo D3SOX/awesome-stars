@@ -1,0 +1,17 @@
+# Awesome Stars
+
+> My GitHub stars, automatically categorized with [starman](https://github.com/morehao/starman).
+
+## Contents
+
+{{ range $cat, $_ := .Groups -}}
+- [{{ $cat }}](#{{ toLink $cat }})
+{{ end }}
+
+{{ range $cat, $repos := .Groups }}
+## {{ $cat }}
+
+{{ range $repos -}}
+- [{{ .FullName }}]({{ .URL }}){{ if .Description }} - {{ .Description }}{{ end }}{{ if .Language }} · `{{ .Language }}`{{ end }}{{ if .StargazersCount }} · ⭐ {{ formatStars .StargazersCount }}{{ end }}{{ if hasHomepage .Homepage }} · [website]({{ .Homepage }}){{ end }}
+{{ end }}
+{{ end }}
