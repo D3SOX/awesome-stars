@@ -2,6 +2,11 @@ name: Update starred repositories
 
 on:
   workflow_dispatch:
+    inputs:
+      reanalyze:
+        description: "Re-analyze all repositories (needed after changing the model or categories)"
+        type: boolean
+        default: false
   schedule:
     # 04:00 UTC daily
     # 06:00 in Sweden during CEST, 05:00 during CET
@@ -56,7 +61,7 @@ jobs:
 
           ai:
             base_url: "https://api.openai.com/v1"
-            model: "gpt-4o-mini"
+            model: "gpt-6-luna"
             concurrency: 3
 
           generate:
@@ -70,7 +75,7 @@ jobs:
             -H "Authorization: Bearer ${STARMAN_AI_API_KEY}" \
             -H "Content-Type: application/json" \
             -d '{
-              "model": "gpt-4o-mini",
+              "model": "gpt-6-luna",
               "messages": [
                 {
                   "role": "user",
@@ -88,52 +93,84 @@ jobs:
 
       - name: Configure categories
         run: |
-          # Rename built-in categories to English
-          starman category edit web-app \
-            --name "Web Apps"
-
-          starman category edit mobile-app \
-            --name "Mobile Apps"
-
-          starman category edit desktop-app \
-            --name "Desktop Apps"
-
-          starman category edit database \
-            --name "Databases"
+          # starman matches the AI's tags against these keywords as
+          # case-insensitive substrings in both directions, and the first
+          # category with a hit wins. Custom categories are checked first,
+          # then built-ins by sort order (specific topics before broad ones).
+          # The AI mostly tags repos with category names, so each category
+          # lists its own name. Avoid short keywords like "ai" or "ui" that
+          # match inside unrelated words.
 
           starman category edit ai-ml \
-            --name "AI and Machine Learning"
-
-          starman category edit dev-tools \
-            --name "Developer Tools"
+            --name "AI and Machine Learning" \
+            --keywords "ai and machine learning,machine learning,machine-learning,deep learning,artificial intelligence,llm,人工智能" \
+            --sort-order 1
 
           starman category edit security \
-            --name "Security"
+            --name "Security" \
+            --keywords "security,encryption,pentest,vulnerability,网络安全,加密" \
+            --sort-order 2
 
           starman category edit game \
-            --name "Games and Graphics"
+            --name "Games and Graphics" \
+            --keywords "games and graphics,gaming,game,游戏" \
+            --sort-order 3
 
-          starman category edit design \
-            --name "Design"
-
-          starman category edit productivity \
-            --name "Productivity and Automation"
-
-          starman category edit education \
-            --name "Learning and Documentation"
-
-          starman category edit social \
-            --name "Social and Communication"
+          starman category edit database \
+            --name "Databases" \
+            --keywords "databases,database,数据库" \
+            --sort-order 4
 
           starman category edit data-analysis \
-            --name "Data and Analytics"
+            --name "Data and Analytics" \
+            --keywords "data and analytics,analytics,visualization,可视化" \
+            --sort-order 5
+
+          starman category edit design \
+            --name "Design" \
+            --keywords "ui design,graphic design,themes,icon theme,设计,主题" \
+            --sort-order 6
+
+          starman category edit social \
+            --name "Social and Communication" \
+            --keywords "social and communication,communication,messaging,chat,社交" \
+            --sort-order 7
+
+          starman category edit education \
+            --name "Learning and Documentation" \
+            --keywords "learning and documentation,documentation,tutorial,education" \
+            --sort-order 8
+
+          starman category edit mobile-app \
+            --name "Mobile Apps" \
+            --keywords "mobile apps,mobile,android,ios app,移动" \
+            --sort-order 9
+
+          starman category edit desktop-app \
+            --name "Desktop Apps" \
+            --keywords "desktop apps,desktop,wayland,compositor,window manager,gnome,kde,桌面" \
+            --sort-order 10
+
+          starman category edit web-app \
+            --name "Web Apps" \
+            --keywords "web apps,web app,web 应用,frontend,browser extension,浏览器扩展,前端" \
+            --sort-order 11
+
+          starman category edit productivity \
+            --name "Productivity and Automation" \
+            --keywords "productivity and automation,productivity,automation,home assistant,file management,file sharing,自动化,生产力,智能家居,文件管理" \
+            --sort-order 12
+
+          starman category edit dev-tools \
+            --name "Developer Tools" \
+            --keywords "developer tools,developer-tools,开发工具,开发者工具" \
+            --sort-order 13
 
           # Add some more useful custom categories.
-          # Custom categories take precedence over built-ins.
 
           starman category add self-hosted \
             --name "Self Hosted" \
-            --keywords "self-hosted,selfhosted,homelab,server" \
+            --keywords "self hosted,self-hosted,selfhosted,homelab,自托管" \
             --sort-order 20
 
           starman category add devops-infrastructure \
@@ -143,17 +180,25 @@ jobs:
 
           starman category add cli-terminal \
             --name "CLI and Terminal" \
-            --keywords "cli,terminal,tui,shell,command-line" \
+            --keywords "cli and terminal,command-line,command line,terminal,命令行,终端" \
             --sort-order 22
 
           starman category add libraries-sdks \
             --name "Libraries and SDKs" \
-            --keywords "library,sdk,framework,package" \
+            --keywords "libraries and sdks,sdk" \
             --sort-order 23
 
-      - name: Analyze new repositories
+      - name: Analyze repositories
+        env:
+          REANALYZE: ${{ inputs.reanalyze }}
         run: |
-          starman analyze --all
+          if [ "$REANALYZE" = "true" ]; then
+            # Clear the "Other" fallback below so re-analyzed repos can move
+            starman categorize "" --cat-filter "Other"
+            starman analyze --all --force
+          else
+            starman analyze --all
+          fi
 
           # starman's unmatched fallback is literally "others".
           # Normalize it for the generated list.
