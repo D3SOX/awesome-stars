@@ -168,17 +168,17 @@ jobs:
 
           starman category edit desktop-app \
             --name "Desktop Apps" \
-            --keywords "desktop apps,desktop,wayland,compositor,window manager,gnome,kde,桌面" \
+            --keywords "desktop apps,desktop,桌面" \
             --sort-order 10
 
           starman category edit web-app \
             --name "Web Apps" \
-            --keywords "web apps,web app,web 应用,frontend,browser extension,浏览器扩展,前端" \
+            --keywords "web apps,web app,web 应用,frontend,前端" \
             --sort-order 11
 
           starman category edit productivity \
             --name "Productivity and Automation" \
-            --keywords "productivity and automation,productivity,automation,home assistant,file management,file sharing,自动化,生产力,智能家居,文件管理" \
+            --keywords "productivity and automation,productivity,automation,file management,file sharing,自动化,生产力,文件管理" \
             --sort-order 12
 
           starman category edit dev-tools \
@@ -207,6 +207,26 @@ jobs:
             --name "Libraries and SDKs" \
             --keywords "libraries and sdks,sdk" \
             --sort-order 23
+
+          starman category add media-music \
+            --name "Media and Music" \
+            --keywords "media and music,music,audio,video,media player,podcast,youtube,spotify,spicetify,音乐,音频,视频,流媒体" \
+            --sort-order 24
+
+          starman category add smart-home \
+            --name "Smart Home" \
+            --keywords "smart home,home assistant,home automation,iot,智能家居,物联网" \
+            --sort-order 25
+
+          starman category add browser-extensions \
+            --name "Browser Extensions" \
+            --keywords "browser extension,userscript,浏览器扩展" \
+            --sort-order 26
+
+          starman category add desktop-customization \
+            --name "Desktop Customization" \
+            --keywords "desktop customization,window manager,tiling,kde plasma,kwin,gnome shell,compositor,wayland" \
+            --sort-order 27
 
       - name: Analyze repositories
         env:
