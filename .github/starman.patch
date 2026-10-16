@@ -1,0 +1,65 @@
+diff --git a/internal/ai/categorize.go b/internal/ai/categorize.go
+index e19c321..8579bb7 100644
+--- a/internal/ai/categorize.go
++++ b/internal/ai/categorize.go
+@@ -4,15 +4,31 @@ import (
+ 	"github.com/morehao/starman/internal/store"
+ )
+ 
++var platformCategories = map[string]bool{"web-app": true, "mobile-app": true, "desktop-app": true}
++
+ func ResolveCategory(repo *store.Repository, aiTags []string, cats []*store.Category) string {
+ 	if repo.CategoryLocked && repo.CustomCategory != "" {
+ 		return repo.CustomCategory
+ 	}
+-	if matched := matchTags(aiTags, cats, true); matched != "" {
+-		return matched
++	// The AI lists the most relevant tags first, so the first matching tag
++	// wins. Platform categories only apply when no topic category matches.
++	var topics, platforms []*store.Category
++	for _, c := range cats {
++		if platformCategories[c.ID] {
++			platforms = append(platforms, c)
++		} else {
++			topics = append(topics, c)
++		}
+ 	}
+-	if matched := matchTags(aiTags, cats, false); matched != "" {
+-		return matched
++	for _, group := range [][]*store.Category{topics, platforms} {
++		for _, tag := range aiTags {
++			if matched := matchTags([]string{tag}, group, true); matched != "" {
++				return matched
++			}
++			if matched := matchTags([]string{tag}, group, false); matched != "" {
++				return matched
++			}
++		}
+ 	}
+ 	if repo.CategoryLocked {
+ 		if repo.AICategory != "" {
+diff --git a/internal/ai/client.go b/internal/ai/client.go
+index 85e9219..b137162 100644
+--- a/internal/ai/client.go
++++ b/internal/ai/client.go
+@@ -34,7 +34,7 @@ type Message struct {
+ type completionRequest struct {
+ 	Model          string    `json:"model"`
+ 	Messages       []Message `json:"messages"`
+-	Temperature    float64   `json:"temperature"`
++	Temperature    float64   `json:"temperature,omitempty"`
+ 	ResponseFormat *struct {
+ 		Type string `json:"type"`
+ 	} `json:"response_format,omitempty"`
+@@ -48,9 +48,8 @@ type completionResponse struct {
+ 
+ func (c *Client) Complete(ctx context.Context, messages []Message) (string, error) {
+ 	body := completionRequest{
+-		Model:       c.model,
+-		Messages:    messages,
+-		Temperature: 0.3,
++		Model:    c.model,
++		Messages: messages,
+ 		ResponseFormat: &struct {
+ 			Type string `json:"type"`
+ 		}{Type: "json_object"},

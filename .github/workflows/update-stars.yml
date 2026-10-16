@@ -46,17 +46,12 @@ jobs:
       - name: Build starman
         working-directory: ${{ runner.temp }}/starman
         run: |
-          # starman always sends temperature 0.3, which OpenAI reasoning
-          # models like gpt-6-luna reject. Omit it so the API default applies.
-          sed -i \
-            -e '/Temperature: 0.3,/d' \
-            -e 's/`json:"temperature"`/`json:"temperature,omitempty"`/' \
-            internal/ai/client.go
-
-          if grep -q 'Temperature: 0.3' internal/ai/client.go; then
-            echo "Temperature patch did not apply"
-            exit 1
-          fi
+          # Patch starman (see .github/starman.patch):
+          # - Omit its fixed temperature 0.3, which OpenAI reasoning models
+          #   like gpt-6-luna reject.
+          # - Pick the category from the AI's first matching tag instead of
+          #   the first matching category, preferring topics over platforms.
+          git apply "$GITHUB_WORKSPACE/.github/starman.patch"
 
           CGO_ENABLED=0 go build -trimpath \
             -ldflags "-s -w -X github.com/morehao/starman/internal/version.ver=${STARMAN_VERSION}" \
@@ -118,9 +113,10 @@ jobs:
       - name: Configure categories
         run: |
           # starman matches the AI's tags against these keywords as
-          # case-insensitive substrings in both directions, and the first
-          # category with a hit wins. Custom categories are checked first,
-          # then built-ins by sort order (specific topics before broad ones).
+          # case-insensitive substrings in both directions. With our patch
+          # the first matching tag wins, and Web/Mobile/Desktop Apps only
+          # apply if no other category matches. If one tag matches several
+          # categories, custom ones win, then built-ins by sort order.
           # The AI mostly tags repos with category names, so each category
           # lists its own name. Avoid short keywords like "ai" or "ui" that
           # match inside unrelated words.
