@@ -68,6 +68,7 @@ jobs:
             sort: "category"
           EOF
 
+      # Mirror the request starman sends, including its fixed temperature
       - name: Test OpenAI API
         run: |
           curl --fail-with-body -sS \
@@ -76,6 +77,7 @@ jobs:
             -H "Content-Type: application/json" \
             -d '{
               "model": "gpt-6-luna",
+              "temperature": 0.3,
               "messages": [
                 {
                   "role": "user",
