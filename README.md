@@ -29,12 +29,12 @@
 
 ## AI and Machine Learning
 
-- [OHF-Voice/micro-wake-word](https://github.com/OHF-Voice/micro-wake-word) - A TensorFlow based wake word detection training framework using synthetic sample generation suitable for certain microcontrollers. · `Python` · ⭐ 951
+- [OHF-Voice/micro-wake-word](https://github.com/OHF-Voice/micro-wake-word) - A TensorFlow based wake word detection training framework using synthetic sample generation suitable for certain microcontrollers. · `Python` · ⭐ 953
 - [Reginald-Gillespie/Spotify-AI-Band-Blocker](https://github.com/Reginald-Gillespie/Spotify-AI-Band-Blocker) - A Spicetify extension to skip songs from AI artists. Powered by SoulOverAI and Zoundhub. · `TypeScript` · ⭐ 77
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2 · `Python` · ⭐ 26.0k
 - [aghyad97/browserytools](https://github.com/aghyad97/browserytools) - 152 free browser-based tools in 17 languages. Your files and text are processed in your browser — no uploads, no accounts, no ads. Image & on-device AI tools, PDF, converters, formatters, calculators, generators. Some AI tools download model weights on first use. · `TypeScript` · ⭐ 705 · [website](https://browserytools.com)
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node · `Jupyter Notebook` · ⭐ 15.2k
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. · `TypeScript` · ⭐ 218.3k · [website](https://opencode.ai)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. · `TypeScript` · ⭐ 219.4k · [website](https://opencode.ai)
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. · `Python` · ⭐ 64.0k · [website](https://comma.ai/openpilot)
 - [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems. · `HTML` · ⭐ 1.3k
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. · `Jupyter Notebook` · ⭐ 23.8k
@@ -44,14 +44,14 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. · `Rust` · ⭐ 59.6k · [website](https://www.meilisearch.com)
 - [mkiol/dsnote](https://github.com/mkiol/dsnote) - Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation. · `C++` · ⭐ 1.7k
 - [morehao/starman](https://github.com/morehao/starman) - AI-powered GitHub stars manager with CLI & TUI. Sync, search, analyze, organize, and generate awesome lists. · `Go` · ⭐ 7
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. · `TypeScript` · ⭐ 208.1k · [website](https://n8n.io)
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision · `Python` · ⭐ 110.9k
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. · `TypeScript` · ⭐ 208.2k · [website](https://n8n.io)
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision · `Python` · ⭐ 111.0k
 - [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors · `Rust` · ⭐ 1.7k
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨ · `Go` · ⭐ 40.3k · [website](https://www.photoprism.app)
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history · `TypeScript` · ⭐ 2.8k
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. · `TypeScript` · ⭐ 50.8k · [website](https://upscayl.org)
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents · `TypeScript` · ⭐ 63.3k · [website](https://context7.com)
-- [woheller69/ttsEngine](https://github.com/woheller69/ttsEngine) · `Kotlin` · ⭐ 806
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents · `TypeScript` · ⭐ 63.4k · [website](https://context7.com)
+- [woheller69/ttsEngine](https://github.com/woheller69/ttsEngine) · `Kotlin` · ⭐ 807
 
 
 ## Browser Extensions
@@ -64,13 +64,13 @@
 - [IzsKon/YouTube-Fixed-Video-Quality](https://github.com/IzsKon/YouTube-Fixed-Video-Quality) - A script for Tampermonkey · `JavaScript` · ⭐ 1
 - [Joolee/userchrome-toggle](https://github.com/Joolee/userchrome-toggle) - A Firefox extension to allow a user to toggle custom userchrome styles · `JavaScript` · ⭐ 40
 - [Nerixyz/a-file-icon-web](https://github.com/Nerixyz/a-file-icon-web) - Atom Material Icons plugin for Google Chrome and Firefox! Supports GitHub, GitLab, Gitee and BitBucket. · `TypeScript` · ⭐ 1
-- [Override92/AiSList](https://github.com/Override92/AiSList) - Filter list for Ai Slop channels on YouTube · ⭐ 350
+- [Override92/AiSList](https://github.com/Override92/AiSList) - Filter list for Ai Slop channels on YouTube · ⭐ 354
 - [Roki100/YouTube-rows-fix](https://github.com/Roki100/YouTube-rows-fix) - YouTube - Custom amount of video rows | Userstyle · `CSS` · ⭐ 24
 - [YouG-o/Hide-YouTube-Members-Only](https://github.com/YouG-o/Hide-YouTube-Members-Only) - Web browser add-on to hide Members-only videos on YouTube. · `TypeScript` · ⭐ 14
 - [YouG-o/YouTube-No-Translation](https://github.com/YouG-o/YouTube-No-Translation) - Web browser add-on that prevents YouTube's automatic translations! It keeps titles, descriptions, and audio in their original language. · `TypeScript` · ⭐ 1.3k · [website](https://youtube-no-translation.vercel.app)
 - [ZeyFoxOFF/userscript-soundcloud](https://github.com/ZeyFoxOFF/userscript-soundcloud) - SoundCloud userscript to hide visual ads · `JavaScript` · ⭐ 2
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube · `TypeScript` · ⭐ 2.3k · [website](https://dearrow.ajay.app)
-- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension) · `TypeScript` · ⭐ 13.9k · [website](https://sponsor.ajay.app)
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension) · `TypeScript` · ⭐ 14.0k · [website](https://sponsor.ajay.app)
 - [alike03/Userscripts](https://github.com/alike03/Userscripts) - Userscripts made by me. / Youtube Docking (Miniplayer if you scroll down) · `JavaScript` · ⭐ 6
 - [antfu/refined-github-notifications](https://github.com/antfu/refined-github-notifications) - UserScript that enhances the GitHub Notifications · `JavaScript` · ⭐ 248
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch · `JavaScript` · ⭐ 2.8k
@@ -85,7 +85,7 @@
 - [fmhy/FMHY-SafeGuard](https://github.com/fmhy/FMHY-SafeGuard) - An extension that detects starred, safe, unsafe or potentially unsafe sites using the FMHY Filterlist. · `JavaScript` · ⭐ 620
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. · `JavaScript` · ⭐ 68.7k
 - [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome) · `JavaScript` · ⭐ 4.5k · [website](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser · `C++` · ⭐ 21.7k · [website](https://helium.computer)
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser · `C++` · ⭐ 21.8k · [website](https://helium.computer)
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks! · `HTML` · ⭐ 124
 - [jcfieldsdev/history-helper](https://github.com/jcfieldsdev/history-helper) - A Firefox and Chrome extension for searching the browser history · `JavaScript` · ⭐ 8 · [website](https://addons.mozilla.org/en-US/firefox/addon/history-helper/)
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge. · `TypeScript` · ⭐ 2.8k · [website](https://tabliss.io)
@@ -102,7 +102,7 @@
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP. · `HTML` · ⭐ 3.5k · [website](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 - [valpackett/soundfixer](https://github.com/valpackett/soundfixer) - A WebExtension that lets you fix sound problems in e.g. YouTube videos · `JavaScript` · ⭐ 286 · [website](https://addons.mozilla.org/firefox/addon/soundfixer/)
 - [vantezzen/skip-silence](https://github.com/vantezzen/skip-silence) - 🔇 Browser extension to skip silent parts in videos and audio files on any webpage · `TypeScript` · ⭐ 470 · [website](https://vantezzen.io/get/skipsilence)
-- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support. · `JavaScript` · ⭐ 9.0k · [website](https://violentmonkey.github.io/)
+- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support. · `JavaScript` · ⭐ 9.1k · [website](https://violentmonkey.github.io/)
 - [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements. · ⭐ 1.3k
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in! · `JavaScript` · ⭐ 2.5k
 - [zerodytrash/YouTube-Livechat-GoToChannel](https://github.com/zerodytrash/YouTube-Livechat-GoToChannel) - A simple userscript that restores the "Visit Channel" aka "Go To Channel" functionality in YouTube Livestream Chats. · `JavaScript` · ⭐ 96
@@ -121,7 +121,7 @@
 - [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh · `TypeScript` · ⭐ 4.3k
 - [archlinux-downgrade/downgrade](https://github.com/archlinux-downgrade/downgrade) - Downgrade packages in Arch Linux · `Shell` · ⭐ 758 · [website](https://archlinux-downgrade.github.io/downgrade/)
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. · `C++` · ⭐ 43.2k · [website](https://aria2.github.io/)
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources · `C++` · ⭐ 35.0k
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources · `C++` · ⭐ 35.1k
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) - hwatch: alternative watch command with history, diff view, JSONL logging, and change hooks. since 2018. · `Rust` · ⭐ 1.1k
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner · `Rust` · ⭐ 36.4k · [website](https://just.systems)
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line · `Rust` · ⭐ 17.8k
@@ -133,18 +133,18 @@
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging · `Rust` · ⭐ 2.4k
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭 · `Rust` · ⭐ 3.1k
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder · `Go` · ⭐ 83.7k · [website](https://junegunn.github.io/fzf/)
-- [kpcyrd/spotify-launcher](https://github.com/kpcyrd/spotify-launcher) - Client for spotify's apt repository in Rust for Arch Linux · `Rust` · ⭐ 336
+- [kpcyrd/spotify-launcher](https://github.com/kpcyrd/spotify-launcher) - Client for spotify's apt repository in Rust for Arch Linux · `Rust` · ⭐ 337
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager · `C` · ⭐ 1.7k · [website](https://github.com/leo-arch/clifm/wiki)
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion. · `Shell` · ⭐ 6.8k
 - [max-baz/rebuild-detector](https://github.com/max-baz/rebuild-detector) - Detects which Arch Linux packages need to be rebuilt · `Shell` · ⭐ 282
-- [moson-mo/pacseek](https://github.com/moson-mo/pacseek) - A terminal user interface for searching and installing Arch Linux packages · `Go` · ⭐ 669
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative · `Go` · ⭐ 15.3k
+- [moson-mo/pacseek](https://github.com/moson-mo/pacseek) - A terminal user interface for searching and installing Arch Linux packages · `Go` · ⭐ 668
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative · `Go` · ⭐ 15.4k
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool · `Rust` · ⭐ 12.1k · [website](https://onefetch.dev)
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu · `Shell` · ⭐ 1.7k · [website](https://pacstall.dev)
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases · `Rust` · ⭐ 8.3k · [website](https://pemistahl.github.io/grex-js/)
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. · `Rust` · ⭐ 9.9k
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files · `Go` · ⭐ 60.4k · [website](https://rclone.org)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies · `Rust` · ⭐ 84.0k · [website](https://www.rtk-ai.app)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies · `Rust` · ⭐ 84.1k · [website](https://www.rtk-ai.app)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. · `Rust` · ⭐ 60.9k
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find' · `Rust` · ⭐ 44.8k
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool · `Rust` · ⭐ 29.1k
@@ -154,17 +154,17 @@
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. · `Go` · ⭐ 1.2k
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! · `Rust` · ⭐ 7.9k
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts · `JavaScript` · ⭐ 9.3k
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages. · `Java` · ⭐ 63.0k · [website](https://f-droid.org/en/packages/com.termux)
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages. · `Java` · ⭐ 63.1k · [website](https://f-droid.org/en/packages/com.termux)
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager · `Shell` · ⭐ 15.1k
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things · `Rust` · ⭐ 4.7k
 - [walles/moor](https://github.com/walles/moor) - Moor is a pager. It's designed to just do the right thing without any configuration. · `Go` · ⭐ 1.2k
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager · `Go` · ⭐ 23.9k · [website](https://superfile.dev)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader · `Python` · ⭐ 199.6k · [website](https://discord.gg/H5MNcFW63r)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader · `Python` · ⭐ 199.8k · [website](https://discord.gg/H5MNcFW63r)
 
 
 ## Data and Analytics
 
-- [OpenVitals-MTU/android-app](https://github.com/OpenVitals-MTU/android-app) - Privacy-first Android dashboard for viewing and adding Health Connect data locally, with no account or cloud required.  · `Kotlin` · ⭐ 39 · [website](https://openvitals.health)
+- [OpenVitals-MTU/android-app](https://github.com/OpenVitals-MTU/android-app) - Privacy-first Android dashboard for viewing and adding Health Connect data locally, with no account or cloud required.  · `Kotlin` · ⭐ 41 · [website](https://openvitals.health)
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting. · `TypeScript` · ⭐ 7.2k · [website](https://openpanel.dev)
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources. · `Kotlin` · ⭐ 11.8k
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative · `TypeScript` · ⭐ 13.1k · [website](https://formbricks.com)
@@ -185,7 +185,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative · `TypeScript` · ⭐ 65.3k · [website](https://nocodb.com)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file · `Go` · ⭐ 61.5k · [website](https://pocketbase.io)
 - [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB · `TypeScript` · ⭐ 47.7k · [website](https://www.prisma.io)
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. · `TypeScript` · ⭐ 112.0k · [website](https://supabase.com)
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. · `TypeScript` · ⭐ 112.6k · [website](https://supabase.com)
 - [techlore/plexus](https://github.com/techlore/plexus) - Remove the fear of Android app compatibility on de-Googled devices. · `Elixir` · ⭐ 695 · [website](https://plexus.techlore.tech)
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences · `C++` · ⭐ 27.0k · [website](https://typesense.org)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads. · `C` · ⭐ 27.5k · [website](https://valkey.io)
@@ -208,8 +208,8 @@
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK · `Vala` · ⭐ 5.3k
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! · `TypeScript` · ⭐ 19.9k · [website](https://catppuccin.com)
 - [cyb3rko/flashdim](https://github.com/cyb3rko/flashdim) - Modern flashlight app with dim functionality on Android 13+ · `Kotlin` · ⭐ 1.5k
-- [ekibun/Stitch](https://github.com/ekibun/Stitch) - Screenshot stitch helper · `Kotlin` · ⭐ 191
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams · `TypeScript` · ⭐ 134.2k · [website](https://excalidraw.com)
+- [ekibun/Stitch](https://github.com/ekibun/Stitch) - Screenshot stitch helper · `Kotlin` · ⭐ 190
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams · `TypeScript` · ⭐ 134.3k · [website](https://excalidraw.com)
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes. · `Rust` · ⭐ 11.8k · [website](https://rnote.flxzt.net)
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. · `TypeScript` · ⭐ 13.9k · [website](https://auto-animate.formkit.com)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code · `Shell` · ⭐ 19.7k · [website](https://monaspace.githubnext.com)
@@ -218,8 +218,8 @@
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration. · `Clojure` · ⭐ 61.4k · [website](https://penpot.app)
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons · `TypeScript` · ⭐ 8.2k · [website](https://lucide-animated.com)
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family · `Python` · ⭐ 20.0k · [website](https://rsms.me/inter/)
-- [storytold/deckcraft](https://github.com/storytold/deckcraft) - Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps. · `Rust` · ⭐ 3.9k · [website](https://getartcraft.com/apps/slidecraft)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust · `Rust` · ⭐ 69.0k · [website](https://getartcraft.com/apps/photocraft)
+- [storytold/deckcraft](https://github.com/storytold/deckcraft) - Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps. · `Rust` · ⭐ 4.0k · [website](https://getartcraft.com/apps/slidecraft)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust · `Rust` · ⭐ 70.0k · [website](https://getartcraft.com/apps/photocraft)
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 · `Python` · ⭐ 29.4k · [website](https://font.subf.dev)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects. · `JavaScript` · ⭐ 22.4k · [website](https://tabler.io/icons)
 - [vercel/geist-font](https://github.com/vercel/geist-font) · `HTML` · ⭐ 3.7k · [website](https://vercel.com/font)
@@ -244,15 +244,15 @@
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux · `Shell` · ⭐ 8.2k · [website](https://git.io/papirus-icon-theme)
 - [Prayag2/konsave](https://github.com/Prayag2/konsave) - A command line program written in Python to let you backup your dotfiles and switch to other ones in an instant. Works out-of-the box on KDE Plasma! · `Python` · ⭐ 1.6k · [website](https://pypi.org/project/Konsave/)
 - [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag · `C` · ⭐ 5.3k
-- [RichardLuo0/global-icon-pack-android](https://github.com/RichardLuo0/global-icon-pack-android) - An Xposed module for applying icon packs globally · `Kotlin` · ⭐ 426
+- [RichardLuo0/global-icon-pack-android](https://github.com/RichardLuo0/global-icon-pack-android) - An Xposed module for applying icon packs globally · `Kotlin` · ⭐ 424
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style. · `JavaScript` · ⭐ 3.1k
 - [Sqaaakoi/vc-junkCleanup](https://github.com/Sqaaakoi/vc-junkCleanup) - Debloater plugin for Vencord · `TypeScript` · ⭐ 7
-- [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust. · `Rust` · ⭐ 605
+- [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust. · `Rust` · ⭐ 606
 - [Zren/plasma-wallpapers](https://github.com/Zren/plasma-wallpapers) · `QML` · ⭐ 47
 - [alexankitty/FancyTasks](https://github.com/alexankitty/FancyTasks) - Make your plasma task manager widget pretty. · `QML` · ⭐ 153
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning · `C` · ⭐ 8.3k
 - [betterlockscreen/betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) - 🍀 sweet looking lockscreen for linux system · `Shell` · ⭐ 2.6k
-- [bikass/kora](https://github.com/bikass/kora) - Kora icon theme for GNU/Linux os · `Shell` · ⭐ 957
+- [bikass/kora](https://github.com/bikass/kora) - Kora icon theme for GNU/Linux os · `Shell` · ⭐ 958
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it. · `SCSS` · ⭐ 5.9k
 - [camila314/vencord-KeywordNotify](https://github.com/camila314/vencord-KeywordNotify) - Vencord third-party plugin to "ping" the user if a message matches custom regular expressions · `TypeScript` · ⭐ 29
 - [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux · `C++` · ⭐ 3.7k
@@ -275,11 +275,11 @@
 - [luisbocanegra/kde-material-you-colors](https://github.com/luisbocanegra/kde-material-you-colors) - Automatic color scheme generator from your wallpaper for KDE Plasma powered by Material You · `Python` · ⭐ 1.0k · [website](https://store.kde.org/p/2136963)
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) - Latte-Dock and WM status bar customization for the KDE Plasma panels · `QML` · ⭐ 1.2k · [website](https://store.kde.org/p/2130967)
 - [luisbocanegra/plasma-smart-video-wallpaper-reborn](https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn) - Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen. · `QML` · ⭐ 611 · [website](https://store.kde.org/p/2139746)
-- [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience. · `C#` · ⭐ 14.1k
+- [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience. · `C#` · ⭐ 14.2k
 - [moodyhunter/applet-window-buttons6](https://github.com/moodyhunter/applet-window-buttons6) - Plasma ~~5~~ (no, 6) applet in order to show window buttons in your panels · `C++` · ⭐ 73
 - [najepaliya/execute_applet](https://github.com/najepaliya/execute_applet) · `QML` · ⭐ 5
 - [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher · `C++` · ⭐ 3.1k
-- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor. · `Rust` · ⭐ 28.5k · [website](https://niri-wm.github.io/niri/)
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor. · `Rust` · ⭐ 28.6k · [website](https://niri-wm.github.io/niri/)
 - [o0th/tmux-nova](https://github.com/o0th/tmux-nova) - tmux theme · `Shell` · ⭐ 215
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux · `C` · ⭐ 4.6k · [website](https://openrazer.github.io)
 - [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy aims for sensible, balanced and intuitive defaults for the KDE Plasma desktop; yet also offers highly customizable theming.  · `C++` · ⭐ 2.0k
@@ -301,7 +301,7 @@
 - [varietywalls/variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems · `Python` · ⭐ 1.7k · [website](https://github.com/varietywalls/variety)
 - [varlesh/papirus-colors](https://github.com/varlesh/papirus-colors) - Papirus folders with KDE Color Scheme support · ⭐ 15
 - [vinceliuice/Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops · `Shell` · ⭐ 879
-- [vinceliuice/Orchis-kde](https://github.com/vinceliuice/Orchis-kde) -  Orchis themes for kde plasma · `QML` · ⭐ 343
+- [vinceliuice/Orchis-kde](https://github.com/vinceliuice/Orchis-kde) -  Orchis themes for kde plasma · `QML` · ⭐ 342
 - [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments. · `SCSS` · ⭐ 4.1k
 - [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme · `Shell` · ⭐ 1.9k · [website](https://www.pling.com/p/1279924/)
 - [vinceliuice/WhiteSur-cursors](https://github.com/vinceliuice/WhiteSur-cursors) - WhiteSur cursors theme for linux desktops · `Shell` · ⭐ 389
@@ -311,7 +311,7 @@
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2 · `Shell` · ⭐ 4.7k
 - [waywallen/waywallen](https://github.com/waywallen/waywallen) - Wallpaper Manager for Linux · `Rust` · ⭐ 1.1k
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11 · `C#` · ⭐ 7.5k
-- [xarblu/kwin-effects-better-blur-dx](https://github.com/xarblu/kwin-effects-better-blur-dx) - Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes. · `C++` · ⭐ 706
+- [xarblu/kwin-effects-better-blur-dx](https://github.com/xarblu/kwin-effects-better-blur-dx) - Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes. · `C++` · ⭐ 707
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support · `C` · ⭐ 4.8k · [website](https://picom.app/)
 
 
@@ -321,7 +321,7 @@
 - [brilliantnz/plasmoid-dockio](https://github.com/brilliantnz/plasmoid-dockio) - Dockio is simple plasma widget to control docker containers · `QML` · ⭐ 25 · [website](https://store.kde.org/p/2185626)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers. · `PHP` · ⭐ 63.3k · [website](https://coolify.io)
 - [cryptomilk/android_vendor_microg](https://github.com/cryptomilk/android_vendor_microg) - Download prebuilt F-Droid and MicroG APKs for custom ROMs · `Shell` · ⭐ 21
-- [flatpark/flatpark](https://github.com/flatpark/flatpark) - Yet another Flatpak hub. · `Shell` · ⭐ 81 · [website](https://flatpark.org)
+- [flatpark/flatpark](https://github.com/flatpark/flatpark) - Yet another Flatpak hub. · `Shell` · ⭐ 82 · [website](https://flatpark.org)
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone · `Go` · ⭐ 8.0k · [website](https://getarcane.app)
 - [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor · `Python` · ⭐ 985
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers · `Go` · ⭐ 22.1k · [website](https://lima-vm.io/)
@@ -330,7 +330,7 @@
 - [marhkb/pods](https://github.com/marhkb/pods) - Manage your containers · `Rust` · ⭐ 1.1k
 - [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest "nightly" build/artifact from a continuous testing workflow · `Crystal` · ⭐ 1.0k · [website](https://nightly.link/)
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace · `TypeScript` · ⭐ 2.9k
-- [qemus/virtiso](https://github.com/qemus/virtiso) - Minimal VirtIO drivers ISO · ⭐ 138
+- [qemus/virtiso](https://github.com/qemus/virtiso) - Minimal VirtIO drivers ISO · ⭐ 139
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy · `Go` · ⭐ 65.3k · [website](https://traefik.io)
 - [ventoy/PXE](https://github.com/ventoy/PXE) - The open source part of iVentoy. · `C` · ⭐ 979
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu. · `Python` · ⭐ 12.4k · [website](https://waydro.id)
@@ -344,7 +344,7 @@
 - [1fexd/AntiWebView](https://github.com/1fexd/AntiWebView) - LSPosed/LSPatch module hooking WebViews and allowing the user to open the link in their browser · `Kotlin` · ⭐ 57
 - [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) - ananicy-cpp-rules for CachyOS · `Shell` · ⭐ 228
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents · `TypeScript` · ⭐ 53.9k · [website](https://developer.chrome.com/docs/devtools/agents)
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed. · `Python` · ⭐ 32.3k · [website](https://cloakbrowser.dev/)
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed. · `Python` · ⭐ 32.4k · [website](https://cloakbrowser.dev/)
 - [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode · `C` · ⭐ 5.1k
 - [CoocooFroggy/FutureRestore-GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) - A modern GUI for FutureRestore, with added features to make the process easier. · `Java` · ⭐ 563
 - [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs · `Kotlin` · ⭐ 2.5k · [website](http://ashellyou.github.io)
@@ -356,7 +356,7 @@
 - [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels · `Shell` · ⭐ 1.6k
 - [Frogging-Family/wine-tkg-git](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds · `Shell` · ⭐ 1.1k
 - [GPUOpen-Tools/radeon_raytracing_analyzer](https://github.com/GPUOpen-Tools/radeon_raytracing_analyzer) - The Radeon Raytracing Analyzer (RRA) is a tool to visualize and inspect Bounding Volume Hierarchies (BVH) for ray tracing applications. · `C++` · ⭐ 256
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device · `C` · ⭐ 152.6k
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device · `C` · ⭐ 152.7k
 - [GlassHaven/Haven](https://github.com/GlassHaven/Haven) - Free SSH, VNC, RDP & SFTP client for Android · `Kotlin` · ⭐ 1.3k · [website](https://glasshaven.github.io/Haven/)
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0 · `Python` · ⭐ 1.5k
 - [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - PDF4QT is an open-source PDF toolkit for Windows and Linux, combining powerful desktop applications, command-line tools and a modern MIT-licensed C++/Qt PDF engine. · `C++` · ⭐ 1.5k · [website](https://jakubmelka.github.io/)
@@ -364,7 +364,7 @@
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers · `Shell` · ⭐ 13.1k · [website](https://jetbrains.com/mono)
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform · `Java` · ⭐ 20.6k · [website](https://jetbrains.com/idea)
 - [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A rootless Xposed framework that embeds Vector into an app by patching its APK — no root, no Zygisk. · `Kotlin` · ⭐ 4.2k · [website](https://github.com/JingMatrix/Vector)
-- [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework · `Kotlin` · ⭐ 12.8k · [website](https://modules.lsposed.org/)
+- [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework · `Kotlin` · ⭐ 12.9k · [website](https://modules.lsposed.org/)
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework · `Java` · ⭐ 25.1k · [website](https://lsposed.org)
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. · `Lua` · ⭐ 19.3k · [website](https://www.lunarvim.org)
 - [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) - A app for managing, sharing, and exploring Magisk modules across repositories · `Kotlin` · ⭐ 2.2k · [website](https://mmrl.dev)
@@ -372,14 +372,14 @@
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source · `C` · ⭐ 17.5k
 - [Nanolx/NanoDroid](https://github.com/Nanolx/NanoDroid) - [MIRROR] See https://gitlab.com/Nanolx/NanoDroid for main repository · `Shell` · ⭐ 564 · [website](http://nanolx.org/nanolx/nanodroid)
 - [NextAlone/InstallerPlus](https://github.com/NextAlone/InstallerPlus) - A Xposed Module that add more feature for Package Installer · `Kotlin` · ⭐ 183 · [website](https://github.com/Xposed-Modules-Repo/ltd.nextalone.pkginstallerplus)
-- [Nico-LaFoucate/Neutron](https://github.com/Nico-LaFoucate/Neutron) - A compatibility layer based on Wine, optimized for digital content creation suites · `Python` · ⭐ 104
+- [Nico-LaFoucate/Neutron](https://github.com/Nico-LaFoucate/Neutron) - A compatibility layer based on Wine, optimized for digital content creation suites · `Python` · ⭐ 105
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. · `Lua` · ⭐ 28.5k · [website](https://nvchad.com)
 - [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm) - Intel Wi-Fi Drivers for macOS · `C` · ⭐ 7.1k · [website](https://OpenIntelWireless.github.io/itlwm/)
 - [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver · `C#` · ⭐ 4.2k · [website](https://opentabletdriver.net/)
 - [PoomSmart/YouPiP](https://github.com/PoomSmart/YouPiP) - Enables native PiP in iOS YouTube app. · `Logos` · ⭐ 152
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉 · `TypeScript` · ⭐ 13.8k · [website](https://partytown.qwik.dev)
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  · `Kotlin` · ⭐ 29.9k · [website](https://revanced.app)
-- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust · `Rust` · ⭐ 27.1k · [website](https://fnm.vercel.app)
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust · `Rust` · ⭐ 27.2k · [website](https://fnm.vercel.app)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 · `C++` · ⭐ 33.9k · [website](https://serenityos.org)
 - [SideQuestVR/SideQuest](https://github.com/SideQuestVR/SideQuest) - The SideQuest desktop application · `TypeScript` · ⭐ 411
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer. · `Swift` · ⭐ 7.0k
@@ -408,14 +408,14 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful · `Rust` · ⭐ 32.2k · [website](https://jj-vcs.dev)
 - [jpr999/zenmonitor3](https://github.com/jpr999/zenmonitor3) - Zenmonitor3 is monitoring software for AMD Zen-based CPUs, now with Zen 3 support! · `C` · ⭐ 8 · [website](https://aur.archlinux.org/packages/zenmonitor3-git/)
 - [kalessil/phpinspectionsea](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP (a PhpStorm/Idea Plugin) · `Java` · ⭐ 1.5k · [website](https://plugins.jetbrains.com/plugin/7622?pr=phpStorm)
-- [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. · `Python` · ⭐ 17.0k · [website](https://latent-spaces.github.io/brag/)
+- [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command. · `Python` · ⭐ 17.2k · [website](https://latent-spaces.github.io/brag/)
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku. · `Kotlin` · ⭐ 2.6k
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari. · `Shell` · ⭐ 2.8k · [website](https://curl-impersonate.readthedocs.io/)
-- [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases · `Python` · ⭐ 574
+- [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases · `Python` · ⭐ 575
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app · `TypeScript` · ⭐ 5.5k · [website](https://aya.liriliri.io)
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's · `TypeScript` · ⭐ 8.6k · [website](https://www.totaltypescript.com/ts-reset)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. · `TypeScript` · ⭐ 341.5k · [website](https://rea.tools)
-- [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader · `TypeScript` · ⭐ 4.1k · [website](https://iloader.app)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. · `TypeScript` · ⭐ 352.1k · [website](https://rea.tools)
+- [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader · `TypeScript` · ⭐ 4.2k · [website](https://iloader.app)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability · `Vim Script` · ⭐ 103.1k · [website](https://neovim.io)
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 · `TypeScript` · ⭐ 76.9k · [website](https://nestjs.com)
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework. · `TypeScript` · ⭐ 61.0k · [website](https://nuxt.com)
@@ -426,27 +426,27 @@
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod · `Rust` · ⭐ 2.8k · [website](https://dekit.run/)
 - [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework · `TypeScript` · ⭐ 33.4k · [website](https://remix.run)
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools · `TypeScript` · ⭐ 3.0k · [website](https://omatsuri.app)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers · `TypeScript` · ⭐ 49.1k · [website](https://sli.dev)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers · `TypeScript` · ⭐ 49.2k · [website](https://sli.dev)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. · `TypeScript` · ⭐ 97.9k · [website](https://tailwindcss.com/)
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend. · `Rust` · ⭐ 112.0k · [website](https://tauri.app)
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend. · `Rust` · ⭐ 112.1k · [website](https://tauri.app)
 - [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process. · `Kotlin` · ⭐ 6.4k
 - [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android · `C#` · ⭐ 5.3k
-- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku · `Python` · ⭐ 10.5k
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku · `Python` · ⭐ 10.6k
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures · `Clojure` · ⭐ 82.1k
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team. · `TypeScript` · ⭐ 10.9k · [website](https://jsonhero.io)
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS · `Swift` · ⭐ 36.0k · [website](https://getutm.app)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. · `C` · ⭐ 80.2k · [website](https://www.ventoy.net)
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents · `Rust` · ⭐ 44.3k · [website](https://agent-browser.dev)
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents · `Rust` · ⭐ 44.4k · [website](https://agent-browser.dev)
 - [vim-polyglot/vim-polyglot](https://github.com/vim-polyglot/vim-polyglot) - A solid language pack for Vim. · `Vim Script` · ⭐ 5.7k
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast! · `TypeScript` · ⭐ 83.4k · [website](http://vite.dev)
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs · `Rust` · ⭐ 15.1k · [website](https://vosen.github.io/ZLUDA/)
 - [vrocky/chatgpt-export](https://github.com/vrocky/chatgpt-export) - Script to share and export  ChatGPT chat logs to Markdown, JSON, or as Image (PNG) with Maths Latex · `JavaScript` · ⭐ 2
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows · `Go` · ⭐ 22.5k · [website](https://www.waveterm.dev)
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. · `TypeScript` · ⭐ 63.3k · [website](https://astro.build)
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows · `Go` · ⭐ 22.6k · [website](https://www.waveterm.dev)
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. · `TypeScript` · ⭐ 63.4k · [website](https://astro.build)
 - [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX ! · `Kotlin` · ⭐ 7.1k · [website](https://wxxsfxyzm.github.io/InstallerX-Revived-Website)
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀 · `TypeScript` · ⭐ 14.1k · [website](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 - [yt-dlp/ejs](https://github.com/yt-dlp/ejs) - External JavaScript for yt-dlp supporting many runtimes · `TypeScript` · ⭐ 464
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. · `Rust` · ⭐ 91.9k · [website](https://zed.dev)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. · `Rust` · ⭐ 92.0k · [website](https://zed.dev)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included · `Rust` · ⭐ 35.8k · [website](https://zellij.dev)
 
 
@@ -463,13 +463,13 @@
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components · `C++` · ⭐ 15.2k
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation. · `C` · ⭐ 3.0k
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. · `TypeScript` · ⭐ 12.5k · [website](https://heroicgameslauncher.com)
-- [Lauriethefish/QuestPatcher](https://github.com/Lauriethefish/QuestPatcher) - Generic il2cpp modding tool for Oculus Quest (1/2/3) apps. · `C#` · ⭐ 385
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. · `C++` · ⭐ 42.4k · [website](http://app.lizardbyte.dev/Sunshine/)
+- [Lauriethefish/QuestPatcher](https://github.com/Lauriethefish/QuestPatcher) - Generic il2cpp modding tool for Oculus Quest (1/2/3) apps. · `C#` · ⭐ 386
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. · `C++` · ⭐ 42.5k · [website](http://app.lizardbyte.dev/Sunshine/)
 - [Metalit/Transitions](https://github.com/Metalit/Transitions) · `C++` · ⭐ 8
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux · `C++` · ⭐ 4.7k · [website](https://lsfg-vk.dev)
 - [PavelDoGreat/Fluid-Simulation](https://github.com/PavelDoGreat/Fluid-Simulation) - This project will be a complete rewrite of my mobile app Fluid Simulation. It will be done in an open-source way and hopefully will inspire many people around the world. · `Zig` · ⭐ 82
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library · `Rust` · ⭐ 1.9k
-- [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) · `C++` · ⭐ 10.7k · [website](https://prismlauncher.org)
+- [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) · `C++` · ⭐ 10.8k · [website](https://prismlauncher.org)
 - [RedBrumbler/TrickSaber](https://github.com/RedBrumbler/TrickSaber) - Direct Tricksaber port from PC, using zenject n things · `C++` · ⭐ 7
 - [Sanakan8472/copy-dialog-lunar-lander](https://github.com/Sanakan8472/copy-dialog-lunar-lander) - Play lunar lander in you windows file copy dialog · `C#` · ⭐ 3.7k
 - [ScoreSaber/quest-mod](https://github.com/ScoreSaber/quest-mod) - ScoreSaber, but for quest · `C++` · ⭐ 21
@@ -512,7 +512,7 @@
 - [rcelyte/MappingExtensions](https://github.com/rcelyte/MappingExtensions) - Quest port of MappingExtensions, updated for 1.24.0 - 1.40.8 · `C++` · ⭐ 19
 - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200 · `C++` · ⭐ 7.3k · [website](https://www.relativty.com/)
 - [rh12503/triangula](https://github.com/rh12503/triangula) - Generate high-quality triangulated and polygonal art from images. · `Go` · ⭐ 3.9k
-- [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs · `Shell` · ⭐ 2.8k
+- [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs · `Shell` · ⭐ 2.9k
 - [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE · `Rust` · ⭐ 4.0k · [website](https://touchhle.org/)
 - [wayvr-org/wayvr](https://github.com/wayvr-org/wayvr) - Your way to enjoy VR on Linux. Run apps inside VR & access your Wayland/X11 screens from Monado/WiVRn/SteamVR. · `Rust` · ⭐ 1.5k · [website](https://wayvr.org)
 - [waywallen/open-wallpaper-engine](https://github.com/waywallen/open-wallpaper-engine) - Open source wallpaper engine implement mostly for linux · `C++` · ⭐ 254
@@ -522,12 +522,12 @@
 ## Learning and Documentation
 
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need · `Python` · ⭐ 41.8k · [website](https://cheat.sh/)
-- [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) - Website with comprehensive comparisons, histories, and other information across many areas of computing and technology. · `HTML` · ⭐ 387 · [website](https://eylenburg.github.io/)
+- [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) - Website with comprehensive comparisons, histories, and other information across many areas of computing and technology. · `HTML` · ⭐ 388 · [website](https://eylenburg.github.io/)
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY · `JavaScript` · ⭐ 12.5k · [website](https://fmhy.net/)
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV · `Clojure` · ⭐ 45.3k · [website](https://logseq.com)
 - [mistermicheels/learning-notes](https://github.com/mistermicheels/learning-notes) - Notes regarding things I have learned · `JavaScript` · ⭐ 294 · [website](https://learning-notes.mistermicheels.com)
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. · `TypeScript` · ⭐ 20.9k · [website](https://monkeytype.com/)
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki · `Vue` · ⭐ 29.1k · [website](https://beta.js.wiki)
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki · `TypeScript` · ⭐ 29.1k · [website](https://beta.js.wiki)
 - [retypeapp/retype](https://github.com/retypeapp/retype) - Retype is an ultra-high-performance static site generator that builds a website based on simple text files. Made in Canada 🇨🇦. · `CSS` · ⭐ 1.3k · [website](https://retype.com)
 - [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) - A repository that helps users get affinity software working on GNU/Linux 🐧 · `Python` · ⭐ 1.8k
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator. · `TypeScript` · ⭐ 18.4k · [website](https://vitepress.dev)
@@ -560,15 +560,15 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. · `TypeScript` · ⭐ 25.2k · [website](https://lucide.dev)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library · `TypeScript` · ⭐ 31.8k · [website](https://mantine.dev)
 - [micku7zu/vanilla-tilt.js](https://github.com/micku7zu/vanilla-tilt.js) - A smooth 3D tilt javascript library. · `JavaScript` · ⭐ 4.0k · [website](https://micku7zu.github.io/vanilla-tilt.js/index.html)
-- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services · `Java` · ⭐ 14.9k · [website](https://microg.org)
-- [mos9527/SonyHeadphonesClient](https://github.com/mos9527/SonyHeadphonesClient) - Cross-platform Sony Sound Connect (formerly Headphones Connect) library/implementation / 索尼 Sound Connect 第三方实现 · `C++` · ⭐ 340 · [website](http://mos9527.com/SonyHeadphonesClient/)
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services · `Java` · ⭐ 15.0k · [website](https://microg.org)
+- [mos9527/SonyHeadphonesClient](https://github.com/mos9527/SonyHeadphonesClient) - Cross-platform Sony Sound Connect (formerly Headphones Connect) library/implementation / 索尼 Sound Connect 第三方实现 · `C++` · ⭐ 341 · [website](http://mos9527.com/SonyHeadphonesClient/)
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React · `TypeScript` · ⭐ 21.3k · [website](https://jotai.org)
-- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React · `TypeScript` · ⭐ 58.8k · [website](https://zustand-demo.pmnd.rs/)
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React · `TypeScript` · ⭐ 58.9k · [website](https://zustand-demo.pmnd.rs/)
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible. · `C++` · ⭐ 4.5k · [website](https://discord.gg/mMrxAqaa3W)
-- [react/react](https://github.com/react/react) - The library for web and native user interfaces. · `JavaScript` · ⭐ 251.4k · [website](https://react.dev)
-- [saucer/saucer](https://github.com/saucer/saucer) - 🛸 A modern, cross-platform C++ webview library · `C++` · ⭐ 954 · [website](https://saucer.github.io/)
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces. · `JavaScript` · ⭐ 251.6k · [website](https://react.dev)
+- [saucer/saucer](https://github.com/saucer/saucer) - 🛸 A modern, cross-platform C++ webview library · `C++` · ⭐ 955 · [website](https://saucer.github.io/)
 - [skick1234/DisTube](https://github.com/skick1234/DisTube) - A comprehensive Discord music bot library built for Discord.js, offering simplified music commands, effortless playback from diverse sources, and integrated audio filters. · `TypeScript` · ⭐ 481 · [website](https://deepwiki.com/skick1234/DisTube)
-- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces. · `TypeScript` · ⭐ 36.1k · [website](https://solidjs.com)
+- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces. · `TypeScript` · ⭐ 36.2k · [website](https://solidjs.com)
 - [stephenberry/glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, serialization, reflection, and RPC library for C++. JSON, BEVE, BSON, CBOR, CSV, JSONB, MessagePack, TOML, YAML, EETF · `C++` · ⭐ 3.1k · [website](https://stephenberry.github.io/glaze/)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us · `JavaScript` · ⭐ 88.4k · [website](https://svelte.dev)
 - [talmobi/yt-search](https://github.com/talmobi/yt-search) · `JavaScript` · ⭐ 121
@@ -576,26 +576,26 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  · `TypeScript` · ⭐ 40.7k · [website](https://tRPC.io)
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more. · `TypeScript` · ⭐ 36.7k · [website](http://typeorm.io)
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes. · `TypeScript` · ⭐ 11.8k
-- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core · `TypeScript` · ⭐ 212.7k · [website](http://v2.vuejs.org)
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core · `TypeScript` · ⭐ 212.6k · [website](http://v2.vuejs.org)
 - [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue & Nuxt. · `Vue` · ⭐ 1.5k · [website](https://vue-sonner.robertshaw.me)
 
 
 ## Media and Music
 
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients · `C` · ⭐ 1.5k
-- [BKSalman/ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) - a very simple GUI for ytdlp written in Rust · `Rust` · ⭐ 477
-- [BernardoGiordano/rewind](https://github.com/BernardoGiordano/rewind) - A self-hosted "Spotify Wrapped"-style experience for Navidrome users · `HTML` · ⭐ 106
+- [BKSalman/ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) - a very simple GUI for ytdlp written in Rust · `Rust` · ⭐ 478
+- [BernardoGiordano/rewind](https://github.com/BernardoGiordano/rewind) - A self-hosted "Spotify Wrapped"-style experience for Navidrome users · `HTML` · ⭐ 109
 - [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) - Modern Windows GUI for youtube-dl/ yt-dlp. Download videos from hundreds of websites. · `C#` · ⭐ 1.3k · [website](https://vividl.sourceforge.io)
 - [FDH2/UxPlay](https://github.com/FDH2/UxPlay) - AirPlay Unix mirroring server · `C` · ⭐ 3.2k
-- [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose · `Kotlin` · ⭐ 2.9k · [website](https://flow-tube.org)
+- [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose · `Kotlin` · ⭐ 3.0k · [website](https://flow-tube.org)
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists · `TypeScript` · ⭐ 1.2k · [website](https://spotify-dedup.com)
-- [JoshAtticus/Compressor](https://github.com/JoshAtticus/Compressor) - Lightning fast, ad free, super lightweight native video compressor for Android · `Kotlin` · ⭐ 764 · [website](https://compressor.joshattic.us/)
+- [JoshAtticus/Compressor](https://github.com/JoshAtticus/Compressor) - Lightning fast, ad free, super lightweight native video compressor for Android · `Kotlin` · ⭐ 765 · [website](https://compressor.joshattic.us/)
 - [Jvanrhijn/polybar-spotify](https://github.com/Jvanrhijn/polybar-spotify) - 🎶 Spotify artist and song module for Polybar · `Python` · ⭐ 590
 - [KieronQuinn/AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Port of Now Playing from Pixels to other Android devices · `Kotlin` · ⭐ 2.5k
 - [Konsl/spicetify-extensions](https://github.com/Konsl/spicetify-extensions) - My Extensions for Spotify · `TypeScript` · ⭐ 54
 - [Kounex/obs_blade](https://github.com/Kounex/obs_blade) - Make use of the OBS WebSocket Plugin (https://github.com/obsproject/obs-websocket) and control your stream · `Dart` · ⭐ 613
 - [L3-N0X/spicetify-dj-info](https://github.com/L3-N0X/spicetify-dj-info) - Display BPM, Key, Year and Popularity next to each Song! · `JavaScript` · ⭐ 71
-- [LeNerd46/SpotifyPlus](https://github.com/LeNerd46/SpotifyPlus) - An Xposed module to enhance your Spotify · `Java` · ⭐ 268
+- [LeNerd46/SpotifyPlus](https://github.com/LeNerd46/SpotifyPlus) - An Xposed module to enhance your Spotify · `Java` · ⭐ 269
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.  · `Rust` · ⭐ 1.1k · [website](https://onetagger.github.io/)
 - [Maskowh/spicetify-old-like-button-extension](https://github.com/Maskowh/spicetify-old-like-button-extension) - Spicetify Extension to add the Old Like Button in tracklists · `JavaScript` · ⭐ 49
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio · `C#` · ⭐ 7.4k · [website](https://flathub.org/apps/details/org.nickvision.tubeconverter)
@@ -610,16 +610,16 @@
 - [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard · `C++` · ⭐ 2.1k · [website](https://soundux.rocks)
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers · `Python` · ⭐ 2.7k · [website](http://syncplay.pl/)
 - [TheAMM/mpv_thumbnail_script](https://github.com/TheAMM/mpv_thumbnail_script) - A Lua script to show preview thumbnails in mpv's OSC seekbar, sans external dependencies · `Lua` · ⭐ 711
-- [TheWisker/Cavasik](https://github.com/TheWisker/Cavasik) - Audio visualizer based on CAVA · `Python` · ⭐ 224 · [website](https://flathub.org/apps/io.github.TheWisker.Cavasik)
-- [Theblockbuster1/spicetify-extensions](https://github.com/Theblockbuster1/spicetify-extensions) - Extensions made for Spicetify, installable via Spicetify Marketplace. · `JavaScript` · ⭐ 103
+- [TheWisker/Cavasik](https://github.com/TheWisker/Cavasik) - Audio visualizer based on CAVA · `Python` · ⭐ 225 · [website](https://flathub.org/apps/io.github.TheWisker.Cavasik)
+- [Theblockbuster1/spicetify-extensions](https://github.com/Theblockbuster1/spicetify-extensions) - Extensions made for Spicetify, installable via Spicetify Marketplace. · `JavaScript` · ⭐ 104
 - [TwitchRecover/TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Twitch VOD tool which recovers all VODs including those that are sub only or deleted. · `Java` · ⭐ 1.2k
 - [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Track your favorite TV shows and movies with this Android app · `Kotlin` · ⭐ 2.2k · [website](https://www.seriesgui.de)
 - [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Read-only mirror of https://gitlab.gnome.org/World/Constrict · `Python` · ⭐ 785 · [website](https://apps.gnome.org/Constrict)
 - [aghontpi/ad-silence](https://github.com/aghontpi/ad-silence) - Mute Ad/promotions from Accuradio, Spotify, Soundcloud, TIDAL, Pandora, or Any App. Minimal, extensible & lightweight under 150kb. · `Kotlin` · ⭐ 402
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3 · `Python` · ⭐ 3.2k
 - [benfoxall/lastfm-to-csv](https://github.com/benfoxall/lastfm-to-csv) - Web based tool for exporting scrobbles · `JavaScript` · ⭐ 564 · [website](http://benjaminbenben.com/lastfm-to-csv/)
-- [ccatterina/plasmusic-toolbar](https://github.com/ccatterina/plasmusic-toolbar) - KDE Plasma widget that shows currently playing song information and provide playback controls. · `QML` · ⭐ 350
-- [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows. · `Rust` · ⭐ 8.5k · [website](https://spotifast.rocks/)
+- [ccatterina/plasmusic-toolbar](https://github.com/ccatterina/plasmusic-toolbar) - KDE Plasma widget that shows currently playing song information and provide playback controls. · `QML` · ⭐ 351
+- [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows. · `Rust` · ⭐ 8.6k · [website](https://spotifast.rocks/)
 - [cyl0/ModernX](https://github.com/cyl0/ModernX) - A modern OSC UI replacement for MPV that retains the functionality of the default OSC. · `Lua` · ⭐ 769
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp · `Kotlin` · ⭐ 10.7k · [website](https://ytdlnis.org)
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - ScreenStream Android App · `Kotlin` · ⭐ 2.6k · [website](https://screenstream.io)
@@ -628,34 +628,34 @@
 - [futo-org/Grayjay.Desktop](https://github.com/futo-org/Grayjay.Desktop) - Read-only mirror of Grayjay.Desktop repo for issue tracking · `C#` · ⭐ 893 · [website](https://gitlab.futo.org/videostreaming/Grayjay.Desktop)
 - [futo-org/fcast](https://github.com/futo-org/fcast) - FCast Issue Tracker and Source Mirror · `Rust` · ⭐ 685 · [website](https://gitlab.futo.org/videostreaming/fcast)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love · `Svelte` · ⭐ 45.3k · [website](https://cobalt.tools)
-- [itzzace/ytkace](https://github.com/itzzace/ytkace) - YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background playback, player controls, and interface customization including liquid glass. · `Objective-C++` · ⭐ 704 · [website](https://itzzace.github.io/ytkace/)
+- [itzzace/ytkace](https://github.com/itzzace/ytkace) - YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background playback, player controls, and interface customization including liquid glass. · `Objective-C++` · ⭐ 711 · [website](https://itzzace.github.io/ytkace/)
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player. · `TypeScript` · ⭐ 10.2k · [website](https://feishin.vercel.app)
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API · `C#` · ⭐ 58.3k · [website](https://jellyfin.org)
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript. · `Rust` · ⭐ 9.4k · [website](https://jely2002.github.io/youtube-dl-gui/)
 - [jeroentvb/spicetify-playlist-icons](https://github.com/jeroentvb/spicetify-playlist-icons) - Add the icon of a playlist in front of the playlist in the playlist list. · `TypeScript` · ⭐ 53
 - [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC. · `Kotlin` · ⭐ 2.3k · [website](https://kawaiidango.github.io/pano-scrobbler/)
-- [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. · `C++` · ⭐ 19.3k
+- [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. · `C++` · ⭐ 19.4k
 - [maoiscat/mpv-osc-modern](https://github.com/maoiscat/mpv-osc-modern) - Another mpv osc script · `Lua` · ⭐ 431
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player · `C` · ⭐ 37.5k · [website](https://mpv.io)
 - [music-assistant/server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. · `Python` · ⭐ 3.2k · [website](https://music-assistant.io)
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service  · `Go` · ⭐ 24.3k · [website](https://www.navidrome.org)
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux. · `Go` · ⭐ 10.4k
 - [nowrep/obs-vkcapture](https://github.com/nowrep/obs-vkcapture) - OBS Linux Vulkan/OpenGL game capture · `C` · ⭐ 824
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording · `C` · ⭐ 77.8k · [website](https://obsproject.com)
-- [ohitstom/spicetify-extensions](https://github.com/ohitstom/spicetify-extensions) - A repository for all my Spicetify extensions. · `JavaScript` · ⭐ 145
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording · `C` · ⭐ 77.9k · [website](https://obsproject.com)
+- [ohitstom/spicetify-extensions](https://github.com/ohitstom/spicetify-extensions) - A repository for all my Spicetify extensions. · `JavaScript` · ⭐ 146
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor · `C++` · ⭐ 9.1k · [website](https://olivevideoeditor.org/)
 - [onionware-github/OnionMedia](https://github.com/onionware-github/OnionMedia) - Open-Source Mediaconverter and -downloader · `C#` · ⭐ 371
 - [onionware-github/OnionMedia-X](https://github.com/onionware-github/OnionMedia-X) - Official OnionMedia X repository for cross platform ports based on Avalonia · `C#` · ⭐ 107
 - [po5/thumbfast](https://github.com/po5/thumbfast) - High-performance on-the-fly thumbnailer script for mpv · `Lua` · ⭐ 1.7k
 - [qixing-jk/spicetify-playlist-labels](https://github.com/qixing-jk/spicetify-playlist-labels) - See which playlists each track appears in directly in Spotify tracklists, and use labels to quickly jump or remove tracks. | 在 Spotify 曲目列表中直接查看每首歌出现在哪些播放列表中，并通过标签快速跳转或移除。 · `TypeScript` · ⭐ 24
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React · `TypeScript` · ⭐ 65.4k · [website](https://remotion.dev)
-- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust · `Rust` · ⭐ 15.2k · [website](https://getartcraft.com/apps/filmcraft)
-- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile! · `Dart` · ⭐ 50.1k · [website](https://spotube.cc/)
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React · `TypeScript` · ⭐ 65.8k · [website](https://remotion.dev)
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust · `Rust` · ⭐ 15.4k · [website](https://getartcraft.com/apps/filmcraft)
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile! · `Dart` · ⭐ 50.2k · [website](https://spotube.cc/)
 - [tharunbirla/LibreCuts](https://github.com/tharunbirla/LibreCuts) - LibreCuts is a free, open-source video editor for Android that prioritizes simplicity and efficiency. · `Kotlin` · ⭐ 1.0k · [website](https://tharunbirla.github.io/LibreCuts/)
 - [theRealPadster/spicetify-hide-podcasts](https://github.com/theRealPadster/spicetify-hide-podcasts) - Spicetify extension to hide podcasts · `TypeScript` · ⭐ 257
 - [timschneeb/DDCToolbox](https://github.com/timschneeb/DDCToolbox) - Create and edit DDC headset correction files · `C++` · ⭐ 192
-- [unspok3n/beatportdl](https://github.com/unspok3n/beatportdl) - Beatport & Beatsource downloader (FLAC, AAC) · `Go` · ⭐ 264
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux · `TypeScript` · ⭐ 34.6k · [website](https://recordly.dev)
+- [unspok3n/beatportdl](https://github.com/unspok3n/beatportdl) - Beatport & Beatsource downloader (FLAC, AAC) · `Go` · ⭐ 265
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux · `TypeScript` · ⭐ 34.7k · [website](https://recordly.dev)
 - [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform camera suite. · `C++` · ⭐ 2.6k · [website](https://webcamoid.github.io/)
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise · `C++` · ⭐ 6.9k
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications · `HTML` · ⭐ 10.4k · [website](https://wwmm.github.io/easyeffects/)
@@ -680,7 +680,7 @@
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future. · `TypeScript` · ⭐ 2.5k · [website](https://betterbahn.de)
 - [CasperVerswijvelt/Better-Internet-Tiles](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) - Bring back Wi-Fi and mobile data tiles on Android 12 or higher + a better unified internet tile · `Kotlin` · ⭐ 260
 - [CatimaLoyalty/Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android · `Java` · ⭐ 1.7k · [website](https://catima.app)
-- [Chethan616/ClearPDF](https://github.com/Chethan616/ClearPDF) - Open-source Android PDF and document toolkit with PDF tools, Office viewing, XLSX editing, scanning, and image editing. Built with Kotlin and Jetpack Compose. · `Kotlin` · ⭐ 368 · [website](https://github.com/Chethan616/ClearPDF/releases/latest)
+- [Chethan616/ClearPDF](https://github.com/Chethan616/ClearPDF) - Open-source Android PDF and document toolkit with PDF tools, Office viewing, XLSX editing, scanning, and image editing. Built with Kotlin and Jetpack Compose. · `Kotlin` · ⭐ 373 · [website](https://github.com/Chethan616/ClearPDF/releases/latest)
 - [DanielRendox/GroceryGenius](https://github.com/DanielRendox/GroceryGenius) - A feature-rich shopping list Android app with offline-first mode and Material You design · `Kotlin` · ⭐ 144
 - [Domilopment/apk-extractor](https://github.com/Domilopment/apk-extractor) - A Simple Modern APK Extractor App · `Kotlin` · ⭐ 407
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar · `Java` · ⭐ 2.6k · [website](https://f-droid.org/packages/ws.xsoh.etar/)
@@ -689,7 +689,7 @@
 - [Galactic-Dev/iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - A jailbreak tweak that implements the sponsorblock api to skip sponsorships in youtube videos. · `Objective-C` · ⭐ 364 · [website](https://galacticdev.me/iSponsorBlock)
 - [GaryOderNichts/SimpleAppDowngrader](https://github.com/GaryOderNichts/SimpleAppDowngrader) - App for downgrading android apps using apks [Root required] · `Java` · ⭐ 14
 - [GustavoASantos/Noti](https://github.com/GustavoASantos/Noti) - Quick glance, clear progress · `Kotlin` · ⭐ 209 · [website](https://play.google.com/store/apps/details?id=com.gustavoas.noti)
-- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source. · `Dart` · ⭐ 20.6k · [website](https://obtainium.imranr.dev)
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source. · `Dart` · ⭐ 20.7k · [website](https://obtainium.imranr.dev)
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. · `C#` · ⭐ 13.8k
 - [KDE/karp](https://github.com/KDE/karp) - Simple PDF editor to arrange, merge and improve PDF file(s) · `C++` · ⭐ 13 · [website](https://invent.kde.org/graphics/karp)
 - [KieronQuinn/Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Smartspacer is a customisable widget for Android, but with a difference: It can upgrade the built in At a Glance on Pixels - without root! · `Kotlin` · ⭐ 3.6k
@@ -713,7 +713,7 @@
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder · `Dart` · ⭐ 6.0k · [website](https://aur.archlinux.org/packages/gpth-bin)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. · `TypeScript` · ⭐ 16.0k · [website](https://vert.sh)
 - [VishnuSanal/WhatsAppCleaner](https://github.com/VishnuSanal/WhatsAppCleaner) - Cleaner for WhatsApp - Clean WhatsApp's Redundant Media Files from Storage · `Kotlin` · ⭐ 352 · [website](https://f-droid.org/packages/com.vishnu.whatsappcleaner)
-- [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests and more · `Kotlin` · ⭐ 1.8k · [website](https://http-shortcuts.rmy.ch)
+- [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests and more · `Kotlin` · ⭐ 1.9k · [website](https://http-shortcuts.rmy.ch)
 - [WootingKb/wooting-macros](https://github.com/WootingKb/wooting-macros) - The official Wooting Macros software. · `TypeScript` · ⭐ 241
 - [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+ · `Kotlin` · ⭐ 7.5k · [website](https://DataBackupOfficial.github.io)
 - [Xitee1/sleep-timer](https://github.com/Xitee1/sleep-timer) - A fancy Android app that pauses / fades out music, disables things like WiFi and Bluetooth when the timer ends · `Kotlin` · ⭐ 66
@@ -721,7 +721,7 @@
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux · `Python` · ⭐ 12.9k · [website](https://abraunegg.github.io)
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit · `JavaScript` · ⭐ 16.1k · [website](https://bentopdf.com/)
 - [alex1701c/krunner-firefox](https://github.com/alex1701c/krunner-firefox) - Launch your Firefox profiles from Krunner and register them in the Firefox .desktop file · `C++` · ⭐ 23
-- [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows · `TypeScript` · ⭐ 8.9k · [website](https://anytype.io)
+- [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows · `TypeScript` · ⭐ 9.0k · [website](https://anytype.io)
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. · `JavaScript` · ⭐ 14.0k · [website](https://automatisch.io)
 - [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon · `C` · ⭐ 2.9k
 - [bernaferrari/ChangeDetection](https://github.com/bernaferrari/ChangeDetection) - Change Detection - Automatically track websites changes on Android in background. · `Kotlin` · ⭐ 743
@@ -733,7 +733,7 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement · `C` · ⭐ 16.5k · [website](https://davatorium.github.io/rofi/)
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software · `C` · ⭐ 30.9k
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers. · `C++` · ⭐ 29.9k · [website](https://deskflow.org)
-- [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME. · `Python` · ⭐ 679 · [website](https://dialectapp.org/)
+- [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME. · `Python` · ⭐ 680 · [website](https://dialectapp.org/)
 - [digitalhabits/dh-focus-android](https://github.com/digitalhabits/dh-focus-android) - Digital Habits: Focus is an Android accessibility service designed to help people with attention-related conditions (such as ADHD) manage their digital environment. · `Java` · ⭐ 103 · [website](https://digitalhabits.org/focus)
 - [dracediax/stepless-volume](https://github.com/dracediax/stepless-volume) - KernelSU/Magisk module for fine-grained volume control — customize your volume step count · `HTML` · ⭐ 1
 - [ethereal-developers/OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanner that protects your privacy · `Dart` · ⭐ 1.8k
@@ -743,27 +743,27 @@
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders. · `C#` · ⭐ 46.1k · [website](https://files.community)
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: · `C++` · ⭐ 31.3k · [website](https://flameshot.org)
 - [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos · `Python` · ⭐ 1.9k · [website](https://giantpinkrobots.github.io/varia/)
-- [hawatri/PinIt](https://github.com/hawatri/PinIt) - Organise, Optimize & Boost your life with PinIt · `Kotlin` · ⭐ 89
+- [hawatri/PinIt](https://github.com/hawatri/PinIt) - Organise, Optimize & Boost your life with PinIt · `Kotlin` · ⭐ 90
 - [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) - A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (https://freefilesync.org/forum/). Last free version for commercial use: https://github.com/hkneptune/FreeFileSync/releases/tag/v12.5 · `C++` · ⭐ 1.7k · [website](https://www.freefilesync.org/)
 - [hxreborn/remember-my-sort](https://github.com/hxreborn/remember-my-sort) - An Xposed module that forces the native Android file picker to remember your sorting preferences. · `Kotlin` · ⭐ 115 · [website](https://github.com/Xposed-Modules-Repo/eu.hxreborn.remembermysort)
 - [itsvic-dev/deliveries](https://github.com/itsvic-dev/deliveries) - 📦 Track all your parcels with ease. · `Kotlin` · ⭐ 255 · [website](https://play.google.com/store/apps/details?id=dev.itsvic.parceltracker)
-- [jakubvalenta/geoshare](https://github.com/jakubvalenta/geoshare) - An Android app to open map links in other map apps and copy coordinates · `Kotlin` · ⭐ 363 · [website](https://f-droid.org/packages/page.ooooo.geoshare/)
+- [jakubvalenta/geoshare](https://github.com/jakubvalenta/geoshare) - An Android app to open map links in other map apps and copy coordinates · `Kotlin` · ⭐ 364 · [website](https://f-droid.org/packages/page.ooooo.geoshare/)
 - [jenspfahl/BDT](https://github.com/jenspfahl/BDT) - Break.Down.Timer · `Dart` · ⭐ 137 · [website](https://bdt.jepfa.de)
-- [joegoldin/zen-bonsai-browser](https://github.com/joegoldin/zen-bonsai-browser) - zen browser fork with tree-style tabs · `C++` · ⭐ 21
+- [joegoldin/zen-bonsai-browser](https://github.com/joegoldin/zen-bonsai-browser) - zen browser fork with tree-style tabs · `C++` · ⭐ 22
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization · `Rust` · ⭐ 8.0k
 - [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices · `Kotlin` · ⭐ 2.8k · [website](https://keymapper.app)
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. · `Go` · ⭐ 14.4k · [website](https://kopia.io)
 - [kuche1/minq-ananicy](https://github.com/kuche1/minq-ananicy) - Minq Ananicy - is Another auto nice daemon, with community rules support · `Python` · ⭐ 41
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages · `Java` · ⭐ 15.2k · [website](https://languagetool.org)
 - [lmj0011/save-on-device](https://github.com/lmj0011/save-on-device) - Android app that allows you to save a file shared from another app to your device. · `Java` · ⭐ 312
-- [lz233/Tarnhelm](https://github.com/lz233/Tarnhelm) - The magic to clean sharing links up. · `Kotlin` · ⭐ 790 · [website](https://tarnhelm.project.ac.cn)
+- [lz233/Tarnhelm](https://github.com/lz233/Tarnhelm) - The magic to clean sharing links up. · `Kotlin` · ⭐ 789 · [website](https://tarnhelm.project.ac.cn)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. · `TypeScript` · ⭐ 61.2k · [website](http://plane.so)
 - [manisandro/gImageReader](https://github.com/manisandro/gImageReader) - A Gtk/Qt front-end to tesseract-ocr. · `C++` · ⭐ 2.0k
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. · `TypeScript` · ⭐ 26.5k · [website](https://www.focalboard.com)
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose · `Kotlin` · ⭐ 2.4k · [website](https://twine.sasikanth.dev/)
-- [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!  · `Kotlin` · ⭐ 969 · [website](https://felixnuesse.de/disky)
+- [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!  · `Kotlin` · ⭐ 970 · [website](https://felixnuesse.de/disky)
 - [ni554n/battarang-notifier-android](https://github.com/ni554n/battarang-notifier-android) - Get notified on another device when your android's battery is low or full · `Kotlin` · ⭐ 201 · [website](https://battarang.anissan.com)
-- [nucleus-ffm/foss_warn](https://github.com/nucleus-ffm/foss_warn) - An unofficial open source application to get emergency alerts. · `Dart` · ⭐ 256
+- [nucleus-ffm/foss_warn](https://github.com/nucleus-ffm/foss_warn) - An unofficial open source application to get emergency alerts. · `Dart` · ⭐ 257
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts. · `C++` · ⭐ 4.3k · [website](https://notes-foss.com)
 - [nvllz/stepsy](https://github.com/nvllz/stepsy) - Simple and lightweight step counter app for Android · `Kotlin` · ⭐ 237
 - [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano) - Next-gen Clipboard Manager for Gnome Shell · `TypeScript` · ⭐ 1.4k · [website](https://extensions.gnome.org/extension/5278/pano/)
@@ -785,20 +785,20 @@
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup. · `JavaScript` · ⭐ 11.6k · [website](https://pairdrop.net)
 - [soduto/Soduto](https://github.com/soduto/Soduto) - Soduto is a KDEConnect compatible client for macOS. It allows better integration between your phones, desktops and tablets. · `Swift` · ⭐ 429 · [website](https://www.soduto.com)
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar. · `C#` · ⭐ 14.9k
-- [storytold/gridcraft](https://github.com/storytold/gridcraft) - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. · `Rust` · ⭐ 6.0k
-- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust · `Rust` · ⭐ 16.4k · [website](https://getartcraft.com/apps/printcraft)
-- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust · `Rust` · ⭐ 14.9k · [website](https://getartcraft.com/apps/wordcraft)
+- [storytold/gridcraft](https://github.com/storytold/gridcraft) - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. · `Rust` · ⭐ 6.1k
+- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust · `Rust` · ⭐ 16.8k · [website](https://getartcraft.com/apps/printcraft)
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust · `Rust` · ⭐ 15.2k · [website](https://getartcraft.com/apps/wordcraft)
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote. · `TypeScript` · ⭐ 14.8k · [website](https://notesnook.com/)
 - [supershadoe/delta](https://github.com/supershadoe/delta) - Advanced hotspot settings for Pixel-like devices · `Kotlin` · ⭐ 582 · [website](https://delta.shadoe.dev)
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead · `Kotlin` · ⭐ 5.7k · [website](http://tasks.org)
-- [timer-machine/timer-machine-android](https://github.com/timer-machine/timer-machine-android) - ⏲ A highly customizable interval timer app for Android · `Kotlin` · ⭐ 369
+- [timer-machine/timer-machine-android](https://github.com/timer-machine/timer-machine-android) - ⏲ A highly customizable interval timer app for Android · `Kotlin` · ⭐ 370
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  · `TypeScript` · ⭐ 73.7k · [website](https://affine.pro)
 - [tytydraco/Comatose](https://github.com/tytydraco/Comatose) - Put your Android device into a deep sleep · `Kotlin` · ⭐ 144 · [website](https://play.google.com/store/apps/details?id=com.draco.comatose)
-- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share. · `Go` · ⭐ 63.9k · [website](https://usememos.com)
-- [vasi/kde-auto-paste](https://github.com/vasi/kde-auto-paste) - Auto-paste from KDE's clipboard history and emoji picker · `Python` · ⭐ 4
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share. · `Go` · ⭐ 64.0k · [website](https://usememos.com)
+- [vasi/kde-auto-paste](https://github.com/vasi/kde-auto-paste) - Auto-paste from KDE's clipboard history and emoji picker · `Python` · ⭐ 5
 - [vbresan/HealthyBatteryCharging](https://github.com/vbresan/HealthyBatteryCharging) - Prolong the battery life of your android phone by keeping it charged between 40% and 80% · `Java` · ⭐ 157 · [website](https://viktorbresan.blogspot.com/search/label/hbc)
-- [xLexip/Adaptive-Theme](https://github.com/xLexip/Adaptive-Theme) - 💡 Auto dark mode based on ambient light sensor for Android. · `Kotlin` · ⭐ 292 · [website](https://play.google.com/store/apps/details?id=dev.lexip.hecate&referrer=utm_source%3Dgithub%26utm_medium%3Drepolink)
-- [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets. · `C++` · ⭐ 15.5k · [website](https://xournalpp.github.io)
+- [xLexip/Adaptive-Theme](https://github.com/xLexip/Adaptive-Theme) - 💡 Auto dark mode based on ambient light sensor for Android. · `Kotlin` · ⭐ 293 · [website](https://play.google.com/store/apps/details?id=dev.lexip.hecate&referrer=utm_source%3Dgithub%26utm_medium%3Drepolink)
+- [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets. · `C++` · ⭐ 15.6k · [website](https://xournalpp.github.io)
 - [xpavle00/Habo](https://github.com/xpavle00/Habo) - Privacy-first habit tracker for iOS and Android. E2EE sync, self-hostable, built with Flutter. · `Dart` · ⭐ 1.5k · [website](https://habo.space)
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI · `TypeScript` · ⭐ 9.7k · [website](https://hyliu.me/fluent-reader/)
 - [yume-chan/VolumeManager](https://github.com/yume-chan/VolumeManager) - Control each app's volume independently. · `Kotlin` · ⭐ 590
@@ -818,14 +818,14 @@
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery · `Kotlin` · ⭐ 3.8k · [website](https://www.fossify.org)
 - [GoodnessJSON/PiHole-Whitelist](https://github.com/GoodnessJSON/PiHole-Whitelist) - An open-source repo of commonly white listed domains for your Pi-Hole setup.  · ⭐ 146
 - [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) - Modern camera app focused on privacy and security with QR & barcode scanning. · `Kotlin` · ⭐ 1.4k · [website](https://grapheneos.org/)
-- [GrapheneOS/PdfViewer](https://github.com/GrapheneOS/PdfViewer) - Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static. · `Kotlin` · ⭐ 1.0k · [website](https://grapheneos.org/)
+- [GrapheneOS/PdfViewer](https://github.com/GrapheneOS/PdfViewer) - Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static. · `Kotlin` · ⭐ 1.1k · [website](https://grapheneos.org/)
 - [Kr328/Riru-ClipboardWhitelist](https://github.com/Kr328/Riru-ClipboardWhitelist) - A module of Riru/Zygisk. Allowing apps to access the clipboard in the background on Android 10. · `Java` · ⭐ 391
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way. · `Kotlin` · ⭐ 7.5k · [website](https://www.keepassdx.com/)
 - [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android · `Kotlin` · ⭐ 3.5k
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android · `Java` · ⭐ 4.7k · [website](https://email.faircode.eu/)
 - [ManeraKai/simplytranslate_mobile](https://github.com/ManeraKai/simplytranslate_mobile) - Privacy friendly frontend to Google Translate · `Dart` · ⭐ 215 · [website](https://simplytranslate-mobile.manerakai.com/)
 - [Odyssey-Team/Odyssey](https://github.com/Odyssey-Team/Odyssey) - Odyssey Swift-based semi-untethered jailbreak · `Swift` · ⭐ 608
-- [Odyssey-Team/Taurine](https://github.com/Odyssey-Team/Taurine) - iOS 14 semi-untethered jailbreak · `C` · ⭐ 578
+- [Odyssey-Team/Taurine](https://github.com/Odyssey-Team/Taurine) - iOS 14 semi-untethered jailbreak · `C` · ⭐ 577
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk. · `C` · ⭐ 4.1k
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) - This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter · `Java` · ⭐ 3.7k · [website](https://gitea.angry.im/PeterCxy/Shelter)
 - [ProjectManticore/Manticore](https://github.com/ProjectManticore/Manticore) - iOS Jailbreak based on cicuta_virosa by ModernPwner and Pattern F's pre-jailbreak's amfid bypass. · `C` · ⭐ 216
@@ -836,11 +836,11 @@
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. · `Rust` · ⭐ 9.5k
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. · `Go` · ⭐ 42.2k · [website](https://t.me/projectXray)
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability · `Kotlin` · ⭐ 2.3k · [website](https://accrescent.app)
-- [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root. · `Kotlin` · ⭐ 6.9k
+- [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root. · `Kotlin` · ⭐ 7.0k
 - [allo-/ffprofile](https://github.com/allo-/ffprofile) - A tool to create firefox profiles with personalized defaults. · `HTML` · ⭐ 844
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more · `Shell` · ⭐ 16.2k · [website](https://stanislas.blog/2019/01/how-to-setup-vpn-server-wireguard-nat-ipv6/)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready. · `Go` · ⭐ 29.4k · [website](https://www.authelia.com)
-- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens. · `Java` · ⭐ 13.3k · [website](https://getaegis.app)
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens. · `Java` · ⭐ 13.4k · [website](https://getaegis.app)
 - [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) - Systemless hosts for APatch / KernelSU / Magisk · `JavaScript` · ⭐ 1.5k
 - [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android. · `Kotlin` · ⭐ 9.5k · [website](https://bitwarden.com)
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli). · `TypeScript` · ⭐ 14.0k · [website](https://bitwarden.com)
@@ -848,11 +848,11 @@
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux · `Python` · ⭐ 7.8k
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF) · `Python` · ⭐ 11.1k · [website](https://www.bunkerweb.io)
 - [comaps/comaps](https://github.com/comaps/comaps) - A mirror of https://codeberg.org/comaps/comaps. CoMaps is a community fork of Organic Maps. Based on principles of openness & transparency, not-for-profit & in the public interest, community-driven & accountable, fully free and open source software! · `C++` · ⭐ 592 · [website](https://www.comaps.app)
-- [confirmedcode/Lockdown-iOS](https://github.com/confirmedcode/Lockdown-iOS) · `Swift` · ⭐ 946
+- [confirmedcode/Lockdown-iOS](https://github.com/confirmedcode/Lockdown-iOS) · `Swift` · ⭐ 947
 - [coollabsio/fonts](https://github.com/coollabsio/fonts) - A privacy-friendly drop-in replacement for Google Fonts · `JavaScript` · ⭐ 658 · [website](https://fonts.coollabs.io)
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows · `Go` · ⭐ 5.2k · [website](https://crazymax.dev/WindowsSpyBlocker/)
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. · `Java` · ⭐ 16.3k · [website](https://cryptomator.org)
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs · `Rust` · ⭐ 69.3k
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs · `Rust` · ⭐ 69.4k
 - [datenanfragen/website](https://github.com/datenanfragen/website) - The Datenanfragen.de website including the request PDF generator and company information database · `TypeScript` · ⭐ 116 · [website](https://www.datenanfragen.de)
 - [dorumrr/privacyFlip](https://github.com/dorumrr/privacyFlip) - Stop leaking data and being tracked when your phone is locked. Automatic lock/unlock privacy control for rooted Android devices 🔐📱✨ · `Kotlin` · ⭐ 318
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research. · `Go` · ⭐ 12.5k · [website](https://hetty.xyz)
@@ -860,9 +860,9 @@
 - [etesync/android](https://github.com/etesync/android) - EteSync - Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars and tasks. · `Kotlin` · ⭐ 367 · [website](https://www.etesync.com)
 - [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own) · `Python` · ⭐ 1.8k · [website](https://www.etesync.com)
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch. · `Python` · ⭐ 14.2k
-- [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) - A GUI to monitor and manage Tailscale on your Linux desktop. · `C++` · ⭐ 311
+- [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) - A GUI to monitor and manage Tailscale on your Linux desktop. · `C++` · ⭐ 313
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework · `C` · ⭐ 5.1k · [website](https://flatpak.org)
-- [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) - FMHY Filterlist · `Python` · ⭐ 578
+- [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) - FMHY Filterlist · `Python` · ⭐ 579
 - [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project, but LSPosed dependency is replaced with Zygisk. · `Kotlin` · ⭐ 3.7k
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime · `C++` · ⭐ 3.4k · [website](https://keyboard.futo.org/)
 - [grote/Transportr](https://github.com/grote/Transportr) - Free Public Transport Assistant without Ads or Tracking · `Kotlin` · ⭐ 1.2k · [website](https://transportr.app)
@@ -876,7 +876,7 @@
 - [jonathanklee/Sapio](https://github.com/jonathanklee/Sapio) - Android apps that respect you · `Kotlin` · ⭐ 249 · [website](https://checksap.io)
 - [lab52io/StopDefender](https://github.com/lab52io/StopDefender) - Stop Windows Defender programmatically · `C++` · ⭐ 983
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android. · `Kotlin` · ⭐ 12.9k · [website](https://libretube.dev)
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop · `Dart` · ⭐ 95.0k · [website](https://localsend.org)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop · `Dart` · ⭐ 95.1k · [website](https://localsend.org)
 - [lukaspieper/Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - App faking only the absolute necessary Apis to use Gcam without Play Services · `Kotlin` · ⭐ 1.1k
 - [m2049r/xmrwallet](https://github.com/m2049r/xmrwallet) - monerujo: An Android Monero Wallet · `Java` · ⭐ 696 · [website](https://www.monerujo.io/)
 - [madaidans-insecurities/madaidans-insecurities.github.io](https://github.com/madaidans-insecurities/madaidans-insecurities.github.io) · `HTML` · ⭐ 158 · [website](https://madaidans-insecurities.github.io/)
@@ -889,31 +889,31 @@
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection · `TypeScript` · ⭐ 5.1k · [website](https://npm.im/apk-mitm)
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network · `Python` · ⭐ 7.2k · [website](https://onionshare.org/)
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher. · `C` · ⭐ 6.6k · [website](https://palera.in)
-- [parawanderer/OpenTagViewer](https://github.com/parawanderer/OpenTagViewer) - Track your AirTags, Apple and Google FindMy devices and custom tags in one place on Android · `Java` · ⭐ 438
+- [parawanderer/OpenTagViewer](https://github.com/parawanderer/OpenTagViewer) - Track your AirTags, Apple and Google FindMy devices and custom tags in one place on Android · `Java` · ⭐ 440
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard. · `Pascal` · ⭐ 8.0k · [website](https://peazip.github.io)
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net · `Shell` · ⭐ 11.7k · [website](https://pi-hole.net)
-- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements · `Shell` · ⭐ 61.3k · [website](https://pi-hole.net)
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements · `Shell` · ⭐ 61.4k · [website](https://pi-hole.net)
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop. · `Kotlin` · ⭐ 7.0k · [website](https://plainapp.app)
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs. · `Markdown` · ⭐ 4.3k · [website](https://www.privacyguides.org)
 - [privacytests/privacytests](https://github.com/privacytests/privacytests) - Source code for privacytests.org. Includes browser testing code and site rendering. · `JavaScript` · ⭐ 1.2k · [website](https://privacytests.org)
 - [ptrpaws/Oculess](https://github.com/ptrpaws/Oculess) - Removes account requirements and telemetry from Oculus Quest devices · `Kotlin` · ⭐ 1.9k
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. · `Rust` · ⭐ 126.4k · [website](https://rustdesk.com)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. · `Rust` · ⭐ 126.5k · [website](https://rustdesk.com)
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance · `Go` · ⭐ 14.0k · [website](https://safing.io)
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic · `C` · ⭐ 19.7k · [website](https://Sandboxie-Plus.com)
-- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. · `Python` · ⭐ 38.6k · [website](https://docs.searxng.org)
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. · `Python` · ⭐ 38.7k · [website](https://docs.searxng.org)
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project. · `Kotlin` · ⭐ 1.9k
-- [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍 · `Kotlin` · ⭐ 2.5k
+- [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍 · `Kotlin` · ⭐ 2.6k
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer · `TypeScript` · ⭐ 696 · [website](https://sereneblue.github.io/chameleon)
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app · `Python` · ⭐ 7.1k · [website](https://simplelogin.io)
 - [soupslurpr/Transcribro](https://github.com/soupslurpr/Transcribro) - Private and on-device speech recognition keyboard and service for Android. · `Kotlin` · ⭐ 761
 - [techlore/Plexus-app](https://github.com/techlore/Plexus-app) - Remove the fear of Android app compatibility on de-Googled devices. · `Kotlin` · ⭐ 498 · [website](https://plexus.techlore.tech)
 - [techlore/go-incognito](https://github.com/techlore/go-incognito) - Go Incognito: A Guide to Security, Privacy, & Anonymity · ⭐ 404 · [website](https://techlore.tech/goincognito)
-- [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android · `Kotlin` · ⭐ 19.4k · [website](https://kernelsu.org)
+- [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android · `Kotlin` · ⭐ 19.5k · [website](https://kernelsu.org)
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android · `Kotlin` · ⭐ 63.4k
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. · `TypeScript` · ⭐ 8.0k · [website](https://tuta.com)
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser! · `C++` · ⭐ 8.4k · [website](https://www.cromite.org/)
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy · `TypeScript` · ⭐ 6.1k · [website](https://privacy.sexy)
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google · `Python` · ⭐ 28.0k
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google · `Python` · ⭐ 28.1k
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt · `C` · ⭐ 11.9k · [website](https://veracrypt.jp)
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI. · `TypeScript` · ⭐ 27.2k · [website](https://wg-easy.github.io/wg-easy/latest/)
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) · ⭐ 6.9k
@@ -929,22 +929,22 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters. · `TypeScript` · ⭐ 55.6k · [website](https://ghost.org)
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server. · `Vue` · ⭐ 11.7k · [website](https://homer-demo.netlify.app/)
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container. · `Shell` · ⭐ 21.7k
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. · `TypeScript` · ⭐ 116.7k · [website](https://immich.app)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. · `TypeScript` · ⭐ 116.8k · [website](https://immich.app)
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube · `Crystal` · ⭐ 25.6k · [website](https://invidious.io)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server · `Go` · ⭐ 44.8k
 - [libre-tube/sync-server](https://github.com/libre-tube/sync-server) - Server to synchronize user data (e.g. subscriptions, playlists) between devices · `Rust` · ⭐ 14 · [website](https://sync.libretube.dev/docs)
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit · `Rust` · ⭐ 5.2k · [website](https://github.com/libreddit/libreddit/issues/840)
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more · `JavaScript` · ⭐ 15.2k · [website](https://librespeed.org)
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. · `Go` · ⭐ 22.5k · [website](https://neko.m1k1o.net/)
-- [motis-project/motis](https://github.com/motis-project/motis) - multimodal routing, geocoding, and map tiles · `C++` · ⭐ 613
+- [motis-project/motis](https://github.com/motis-project/motis) - multimodal routing, geocoding, and map tiles · `C++` · ⭐ 614
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data · `PHP` · ⭐ 37.2k · [website](https://nextcloud.com)
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign. · `Go` · ⭐ 6.2k · [website](https://opencloud.eu)
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client · `C++` · ⭐ 40.9k · [website](https://www.qbittorrent.org)
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client · `C++` · ⭐ 41.0k · [website](https://www.qbittorrent.org)
 - [reaper47/recipya](https://github.com/reaper47/recipya) - A clean, simple and powerful recipe manager your whole family will enjoy. · `Go` · ⭐ 411 · [website](https://old.recipya.ca)
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine · `Python` · ⭐ 13.6k · [website](https://hister.org/)
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative. · `HTML` · ⭐ 3.1k · [website](https://littlelink.io)
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate · `TypeScript` · ⭐ 1.9k · [website](https://lingva.thedaviddelta.com)
-- [yattee/yattee-server](https://github.com/yattee/yattee-server) - A self-hosted API server powered by yt-dlp that manages data extraction from YouTube and other video sites · `Python` · ⭐ 122
+- [yattee/yattee-server](https://github.com/yattee/yattee-server) - A self-hosted API server powered by yt-dlp that manages data extraction from YouTube and other video sites · `Python` · ⭐ 123
 
 
 ## Smart Home
@@ -952,7 +952,7 @@
 - [BigBobbas/ESP32-S3-Box3-Custom-ESPHome](https://github.com/BigBobbas/ESP32-S3-Box3-Custom-ESPHome) - Custom ESPHome config for ESP32-S3-Box-3 with sensors and touchscreen · ⭐ 327
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules. · `JavaScript` · ⭐ 4.7k
 - [DigiLive/mushroom-strategy](https://github.com/DigiLive/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards · `TypeScript` · ⭐ 673 · [website](https://digilive.github.io/mushroom-strategy/)
-- [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one. · `Python` · ⭐ 281
+- [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one. · `Python` · ⭐ 282
 - [Hankanman/Area-Occupancy-Detection](https://github.com/Hankanman/Area-Occupancy-Detection) - A Home Assistant integration to accurately and intelligently track occupancy of an area · `Python` · ⭐ 334 · [website](https://hankanman.github.io/Area-Occupancy-Detection/)
 - [JonathanTreffler/bekant-desk-card](https://github.com/JonathanTreffler/bekant-desk-card) - Home Assistant Lovelace Card for controlling IKEA Bekant desks modified with a Megadesk Controller. · `TypeScript` · ⭐ 2
 - [Nerwyn/custom-card-features](https://github.com/Nerwyn/custom-card-features) - Home Assistant custom features for tile cards and more. Call any action using buttons, dropdowns, inputs, selectors, sliders, spinboxes, and toggles. · `TypeScript` · ⭐ 451
@@ -965,7 +965,7 @@
 - [azerty9971/xtend_tuya](https://github.com/azerty9971/xtend_tuya) - eXtend Tuya's integration · `Python` · ⭐ 364
 - [basbruss/adaptive-cover](https://github.com/basbruss/adaptive-cover) - An Adaptive Cover component for HomeAsisstant to control covers based on the sun's position · `Jupyter Notebook` · ⭐ 350
 - [bastgau/ha-pi-hole-v6](https://github.com/bastgau/ha-pi-hole-v6) - 🛡️ This custom integration restored compatibility between Home Assistant and Pi-hole, which was no longer supported by the native integration. Today, this integration offers additional and complementary features. · `Python` · ⭐ 521
-- [beecho01/material-symbols](https://github.com/beecho01/material-symbols) - Material Symbols for Home Assistant is a collection of 16,344 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by iconify. · `Python` · ⭐ 244
+- [beecho01/material-symbols](https://github.com/beecho01/material-symbols) - Material Symbols for Home Assistant is a collection of 16,344 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by iconify. · `Python` · ⭐ 245
 - [bkbilly/mqtt_media_player](https://github.com/bkbilly/mqtt_media_player) - Fill out your Media Player Entity with MQTT Topics · `Python` · ⭐ 23
 - [brix29/ha_music_voice_control_spotifyplus](https://github.com/brix29/ha_music_voice_control_spotifyplus) - Voice Music control with SpotifyPlus and HA Voice PE in Home Assistant · ⭐ 22
 - [davidedmundson/kiot](https://github.com/davidedmundson/kiot) - Linux (KDE?) integration for Home Assistant via MQTT · `C++` · ⭐ 340
@@ -985,7 +985,7 @@
 - [hugobloem/wyoming-microsoft-tts](https://github.com/hugobloem/wyoming-microsoft-tts) - Wyoming protocol server for Microsoft Azure text-to-speech · `Python` · ⭐ 26
 - [ironsheep/RPi-Reporter-MQTT2HA-Daemon](https://github.com/ironsheep/RPi-Reporter-MQTT2HA-Daemon) - Linux service to collect and transfer Raspberry Pi data via MQTT to Home Assistant (for RPi Monitoring) · `Python` · ⭐ 559
 - [jaydeethree/Home-Assistant-weatherdotcom](https://github.com/jaydeethree/Home-Assistant-weatherdotcom) - Home Assistant custom component/integration for Weather.com · `Python` · ⭐ 96
-- [joseluis9595/lovelace-navbar-card](https://github.com/joseluis9595/lovelace-navbar-card) - Custom lovelace card that displays a bottom nav in mobile devices, and a side nav in desktop devices for easy navigation. · `TypeScript` · ⭐ 878 · [website](https://joseluis9595.github.io/lovelace-navbar-card/docs/introduction)
+- [joseluis9595/lovelace-navbar-card](https://github.com/joseluis9595/lovelace-navbar-card) - Custom lovelace card that displays a bottom nav in mobile devices, and a side nav in desktop devices for easy navigation. · `TypeScript` · ⭐ 879 · [website](https://joseluis9595.github.io/lovelace-navbar-card/docs/introduction)
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI · `JavaScript` · ⭐ 3.9k
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI · `TypeScript` · ⭐ 1.7k
 - [ljmerza/light-entity-card](https://github.com/ljmerza/light-entity-card) - Control any light or switch entity · `JavaScript` · ⭐ 290
@@ -1018,7 +1018,7 @@
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability. · `TypeScript` · ⭐ 575 · [website](https://opentogethertube.com)
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities. · `TypeScript` · ⭐ 10.6k · [website](https://feedback.fluxer.com)
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. · `TypeScript` · ⭐ 30.1k · [website](https://jitsi.org/meet)
-- [ksh-b/raven](https://github.com/ksh-b/raven) - News Aggregator · `Dart` · ⭐ 328
+- [ksh-b/raven](https://github.com/ksh-b/raven) - News Aggregator · `Dart` · ⭐ 327
 - [linagora/twake-legacy](https://github.com/linagora/twake-legacy) - Twake is a secure open source collaboration platform to improve organizational productivity.  · `TypeScript` · ⭐ 1.9k · [website](https://linagora.github.io/twake-legacy/)
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community · `Ruby` · ⭐ 50.4k · [website](https://joinmastodon.org)
 - [okdargy/fxTikTok](https://github.com/okdargy/fxTikTok) - Fix stale and unresponsive TikTok embeds on Discord with just s/i/n · `TypeScript` · ⭐ 299 · [website](https://tnktok.com)
